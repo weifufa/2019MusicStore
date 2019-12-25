@@ -1,0 +1,69 @@
+﻿@using MVCMusicStore2019.ViewModels.MusicStores
+@model IEnumerable<AlbumDisplayViewModel>
+<h2>专辑管理</h2>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        系统用户列表
+    </div>
+    <table class="table table-condensed table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.OrderNumber)</th>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            @*<th>@Html.DisplayNameFor(model => model.IssueTime)</th>*@
+           @*<th>@Html.DisplayNameFor(model => model.IssueUser)</th>*@
+            @*<th>@Html.DisplayNameFor(model => model.LanguageClassification)</th>*@
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>@Html.DisplayNameFor(model => model.GenreName)</th>
+            <th>@Html.DisplayNameFor(model => model.AlbumTypeName)</th>
+            <th>@Html.DisplayNameFor(model => model.ArtistName)</th>
+           
+        </tr>
+        @using (Ajax.BeginForm("Index", new AjaxOptions()))
+        {
+            if (Model.Count() == 0)
+            {
+                <tr>
+                    <td colspan="10" style="text-align:center;">当前列表无数据</td>
+                </tr>
+            }
+            else
+            {
+
+                foreach (var item in Model)
+                {
+                    <tr>
+                        @Html.HiddenFor(Item => item.Id)
+                        <td>@item.OrderNumber</td>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        @*<td>@item.IssueTime</td>
+                        <td>@item.IssueUser</td>*@
+                        @*<td>@item.LanguageClassification</td>*@
+                        <td>@item.Price</td>
+                        <td>@item.GenreName</td>
+                        <td>@item.AlbumTypeName</td>
+                        <td>@item.ArtistName</td>
+                        <td>
+                            @*@using (Html.BeginForm("Delete", "AlbumType", new { id = item.Id }))
+                                           {
+                                                   @Html.ActionLink("编辑", "CreatOrEdit", new { id = item.Id },
+                                new { @class = "btn btn-primary btn-xs" }
+                                )
+                                                   <button class="btn btn-danger btn-xs">删除</button>
+                                               }*@
+                            @Html.ActionLink("编辑", "CreatOrEdit", new { id = item.Id },
+             new { @class = "btn btn-primary btn-xs" }
+             )
+                            @Html.ActionLink("删除", "Delete", new { id = item.Id },
+             new { @class = "btn btn-danger btn-xs" }
+             )
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+    @Html.ActionLink("新增", "CreatOrEdit", null, new { @class = "btn btn-primary" })
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+</div>

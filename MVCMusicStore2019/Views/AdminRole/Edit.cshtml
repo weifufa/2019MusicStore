@@ -1,0 +1,60 @@
+﻿@using MVCMusicStore2019.ViewModels
+@model AdminEditRoleViewModel
+
+@{
+    ViewBag.Title = "Edit Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.ValidationSummary()
+@using (Html.BeginForm())
+{
+    <input type="hidden" name="roleName" value="@Model.Role.Name" />
+    <div class="panel panel-primary">
+        <div class="panel-heading">添加到 @Model.Role.Name</div>
+        <table class="table table-striped">
+            @if (Model.NonMembers.Count() == 0)
+            {
+                <tr><td colspan="2">所有用户都是Members。</td></tr>
+            }
+            else
+            {
+                <tr><td>用户ID</td><td>添加到角色</td></tr>
+                foreach (MVCMusicStore2019.Models.ApplicationUser user in Model.NonMembers)
+                {
+                    <tr>
+                        <td>@user.UserName</td>
+                        <td>
+                            <input type="checkbox" name="IdsToAdd" value="@user.Id">
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    <div class="panel panel-primary">
+        <div class="panel-heading">从 @Model.Role.Name 组移除</div>
+        <table class="table table-striped">
+            @if (Model.Members.Count() == 0)
+            {
+                <tr><td colspan="2">该角色没有用户</td></tr>
+            }
+            else
+            {
+                <tr><td>用户ID</td><td>从角色移除</td></tr>
+                foreach (MVCMusicStore2019.Models.ApplicationUser user in Model.Members)
+                {
+                    <tr>
+                        <td>@user.UserName</td>
+                        <td>
+                            <input type="checkbox" name="IdsToDelete" value="@user.Id">
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    <button type="submit" class="btn btn-primary">保存</button>
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+}
+

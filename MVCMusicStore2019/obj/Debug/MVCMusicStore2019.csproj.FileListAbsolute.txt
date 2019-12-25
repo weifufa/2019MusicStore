@@ -1,0 +1,1507 @@
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\csc.exe
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\vbc.exe
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Owin.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Helpers.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Mvc.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Optimization.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Razor.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\WebGrease.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Helpers.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Mvc.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Optimization.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Razor.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Abstractions.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Container.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Mvc.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\WebActivatorEx.dll
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Container.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Mvc.pdb
+C:\Works\Projects\MVCMusicStore2019\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\csc.exe
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\vbc.exe
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Owin.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Helpers.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Mvc.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Optimization.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Razor.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Abstractions.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Container.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Mvc.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\WebActivatorEx.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\WebGrease.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Helpers.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Mvc.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Razor.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\System.Web.Optimization.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Container.pdb
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Unity.Mvc.pdb
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+D:\zy\Projects\04-抽象层-用户验证-整合完毕-MVCMusicStore2019\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Owin.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Abstractions.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Container.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Mvc.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\WebActivatorEx.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Container.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Unity.Mvc.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+C:\Users\Administrator\Desktop\04-抽象层-用户验证-整合完毕-MVCMusicStore2019 (1)\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\M1114\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\M1114\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\M1114\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\M1114\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\M1114\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\M1114\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\M1114\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\M1114\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\M1114\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\M1114\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\M1114\MVCMusicStore2019\bin\EntityFramework.dll
+E:\M1114\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\M1114\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\M1114\MVCMusicStore2019\bin\Owin.dll
+E:\M1114\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\M1114\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\M1114\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\M1114\MVCMusicStore2019\bin\Unity.Container.dll
+E:\M1114\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\M1114\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\M1114\MVCMusicStore2019\bin\WebGrease.dll
+E:\M1114\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\M1114\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\M1114\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\M1114\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\M1114\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\M1114\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\M1114\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\M1114\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\M1114\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\M1114\MVCMusicStore2019\bin\EntityFramework.xml
+E:\M1114\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\M1114\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\M1114\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\M1114\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\M1114\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\M1114\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.initialcreate.resources
+E:\M1114\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\M1114\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\WF\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WF\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WF\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\WF\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\WF\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\WF\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\WF\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\WF\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\WF\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\WF\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\WF\MVCMusicStore2019\bin\EntityFramework.dll
+E:\WF\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\WF\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\WF\MVCMusicStore2019\bin\Owin.dll
+E:\WF\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\WF\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\WF\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\WF\MVCMusicStore2019\bin\Unity.Container.dll
+E:\WF\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\WF\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\WF\MVCMusicStore2019\bin\WebGrease.dll
+E:\WF\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WF\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\WF\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\WF\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\WF\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\WF\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\WF\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\WF\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\WF\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\WF\MVCMusicStore2019\bin\EntityFramework.xml
+E:\WF\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WF\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\WF\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\WF\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\WF\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\WF\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\WF\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\WF\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MuiscStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.Migrations.pdrmis.resources
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csproj.GenerateResource.Cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\2019年上学期\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191220\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Facebook.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Google.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.Twitter.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb

@@ -1,0 +1,27 @@
+﻿@using MVCMusicStore2019.ViewModels
+@model UserLoginViewModel
+@{
+    ViewBag.Title = "Index——用户登录";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index——用户登录</h2>
+
+@Html.ValidationSummary()
+
+@using (Html.BeginForm())
+{
+    //Html.AntiForgeryToken辅助器
+    @Html.AntiForgeryToken();
+    //创建了隐藏input元素，目的保护returnUrl参数。目的验证未认证请求的重定向情况
+    <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+    <div class="form-group">
+        @Html.LabelFor(x => x.Name, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Password, new { @class = "col-md-2 control-label" })
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+    </div>
+    <button class="btn btn-primary" type="submit">登录</button>
+}

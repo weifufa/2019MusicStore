@@ -1,0 +1,28 @@
+﻿@using MVCMusicStore2019.ViewModels
+@model AdminEditUserViewModel
+@{
+    ViewBag.Title = "Edit User修改用户";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Admin——修改用户信息</h2>
+
+@Html.ValidationSummary(false)
+<div class="form-group">
+    @Html.LabelFor(x => x.Name, new { @class = "col-md-2 control-label" })
+    <p class="form-control-static">@Model.Name</p>
+</div>
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+    <div class="form-group">
+        @Html.LabelFor(x => x.Email, new { @class = "col-md-2 control-label" })
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Password, new { @class = "col-md-2 control-label" })        
+        <input name="password" type="password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">保存</button>
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+}

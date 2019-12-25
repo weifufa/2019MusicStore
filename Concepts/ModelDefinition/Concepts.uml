@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
+  dslVersion="1.0.0.0"
+  Id="a16774aa-77ce-472f-8c25-0a0b9bef0966"
+  name="Concepts" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction
+        Id="5c781511-26db-41bf-be0f-0f826437c910"
+        name="ModelViewController"
+        collapseFragmentsFlag="false"
+        isActiveClass="false"
+        isAbstract="false"
+        isLeaf="false"
+        isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification
+            Id="2969431b-7f52-4457-82c5-b0be2c8746c2"
+            name="BehaviorExecutionSpecification1">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="24c101ea-7fa3-4d27-b989-d6182d98e773"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="Concepts.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="91970d3b-6d5a-419c-9e14-cb3e04c89821"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="Concepts.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="7a455584-351a-41d5-b4a8-993b858459aa"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="e40db4d0-0faa-4159-9f47-b8df9b3a935e"
+                LastKnownName="MessageOccurrenceSpecification15"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="e656de5b-2318-4a9f-b4b7-90746da0ca1b"
+                LastKnownName="MessageOccurrenceSpecification18"
+                LastKnownLocation="Concepts.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="91970d3b-6d5a-419c-9e14-cb3e04c89821"
+            name="ExecutionOccurrenceSpecification1">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="e5adfdbc-91e0-4bbb-a7ca-86f2ef007ebc"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="c46d6602-247f-4581-a641-ed73600db410"
+            name="MessageOccurrenceSpecification1">
+            <covered>
+              <lifelineMoniker
+                Id="a1fbd9eb-b9ba-4f4d-847e-99f7a6f8423a"
+                LastKnownName="Users"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="7a455584-351a-41d5-b4a8-993b858459aa"
+            name="MessageOccurrenceSpecification2">
+            <covered>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="8a41cf75-0f1f-43f7-83bc-4e1b41269b1f"
+            name="BehaviorExecutionSpecification6">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="ecec4728-75a7-4e1f-a235-6e521de1cdda"
+                LastKnownName="ExecutionOccurrenceSpecification12"
+                LastKnownLocation="Concepts.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="46b1a9e0-b345-4246-b98e-ffd08e77efc4"
+                LastKnownName="ExecutionOccurrenceSpecification11"
+                LastKnownLocation="Concepts.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="6f0a6887-8175-4a91-99fb-38fad14adab8"
+                LastKnownName="MessageOccurrenceSpecification16"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="1023e20d-f7df-45a7-89e0-b31756eca249"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="7c0c31aa-dfbc-4390-96eb-82f4477d52fb"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="7daaf7a2-791a-4941-8aaf-75f6a6044b77"
+                LastKnownName="MessageOccurrenceSpecification17"
+                LastKnownLocation="Concepts.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="46b1a9e0-b345-4246-b98e-ffd08e77efc4"
+            name="ExecutionOccurrenceSpecification11">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="fc4fdbf3-afb1-485b-8bbf-ea08dd3be695"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="e40db4d0-0faa-4159-9f47-b8df9b3a935e"
+            name="MessageOccurrenceSpecification15">
+            <covered>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="6f0a6887-8175-4a91-99fb-38fad14adab8"
+            name="MessageOccurrenceSpecification16">
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="419263b8-f567-4ee0-b53f-af773f25afed"
+            name="BehaviorExecutionSpecification7">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="532689ee-7174-4d77-81b0-01478586efce"
+                LastKnownName="ExecutionOccurrenceSpecification14"
+                LastKnownLocation="Concepts.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="a8262c9f-e373-4f76-b4ea-4136dd24ee09"
+                LastKnownName="ExecutionOccurrenceSpecification13"
+                LastKnownLocation="Concepts.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="d943b9f5-1c8c-4bfe-bc21-6cbdb98dd174"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="70059c3d-1824-4728-b7d9-f5246155908a"
+                LastKnownName="MessageOccurrenceSpecification23"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="b338e004-fa69-4206-b93c-6509341c7044"
+                LastKnownName="MessageOccurrenceSpecification26"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="acf9f28f-db26-4e19-ba57-ba9605971358"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="Concepts.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="a8262c9f-e373-4f76-b4ea-4136dd24ee09"
+            name="ExecutionOccurrenceSpecification13">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="7381e0d1-8ae0-464c-8757-434a7501d40c"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="d943b9f5-1c8c-4bfe-bc21-6cbdb98dd174"
+            name="MessageOccurrenceSpecification20">
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="1023e20d-f7df-45a7-89e0-b31756eca249"
+            name="MessageOccurrenceSpecification19">
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <behaviorExecutionSpecification
+            Id="9e15ee8e-1032-4245-95ae-67c7b0fdc2ba"
+            name="BehaviorExecutionSpecification8">
+            <coveredLifelines>
+              <lifelineMoniker
+                Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+                LastKnownName="DB"
+                LastKnownLocation="Concepts.uml" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker
+                Id="bae76cba-6ea3-4772-bd13-fc2ae515588d"
+                LastKnownName="ExecutionOccurrenceSpecification16"
+                LastKnownLocation="Concepts.uml" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker
+                Id="a399eabd-1cb9-416f-9a4b-43ae190cfbf5"
+                LastKnownName="ExecutionOccurrenceSpecification15"
+                LastKnownLocation="Concepts.uml" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="31e9f153-3459-4096-84a7-102072fd5460"
+                LastKnownName="MessageOccurrenceSpecification24"
+                LastKnownLocation="Concepts.uml" />
+              <messageOccurrenceSpecificationMoniker
+                Id="50ed4132-20cc-4133-940e-898c015848c4"
+                LastKnownName="MessageOccurrenceSpecification25"
+                LastKnownLocation="Concepts.uml" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification
+            Id="a399eabd-1cb9-416f-9a4b-43ae190cfbf5"
+            name="ExecutionOccurrenceSpecification15">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="b3611bed-abda-4f6b-aa0c-16813ec796e8"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+                LastKnownName="DB"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="31e9f153-3459-4096-84a7-102072fd5460"
+            name="MessageOccurrenceSpecification24">
+            <covered>
+              <lifelineMoniker
+                Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+                LastKnownName="DB"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="70059c3d-1824-4728-b7d9-f5246155908a"
+            name="MessageOccurrenceSpecification23">
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="b338e004-fa69-4206-b93c-6509341c7044"
+            name="MessageOccurrenceSpecification26">
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="50ed4132-20cc-4133-940e-898c015848c4"
+            name="MessageOccurrenceSpecification25">
+            <covered>
+              <lifelineMoniker
+                Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+                LastKnownName="DB"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="bae76cba-6ea3-4772-bd13-fc2ae515588d"
+            name="ExecutionOccurrenceSpecification16">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="7c355514-624b-479f-ada8-b99e70ad0e6e"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+                LastKnownName="DB"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="acf9f28f-db26-4e19-ba57-ba9605971358"
+            name="MessageOccurrenceSpecification21">
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="7c0c31aa-dfbc-4390-96eb-82f4477d52fb"
+            name="MessageOccurrenceSpecification22">
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="532689ee-7174-4d77-81b0-01478586efce"
+            name="ExecutionOccurrenceSpecification14">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="de53f429-7772-4801-ab34-0b3d4b8a69c5"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="0b7922af-d563-4079-b760-9f4816b44614"
+                LastKnownName="Models"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="7daaf7a2-791a-4941-8aaf-75f6a6044b77"
+            name="MessageOccurrenceSpecification17">
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification
+            Id="e656de5b-2318-4a9f-b4b7-90746da0ca1b"
+            name="MessageOccurrenceSpecification18">
+            <covered>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="ecec4728-75a7-4e1f-a235-6e521de1cdda"
+            name="ExecutionOccurrenceSpecification12">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="fc342396-f5f5-44bb-9f28-9394de4a96c5"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+                LastKnownName="Controllers"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <executionOccurrenceSpecification
+            Id="24c101ea-7fa3-4d27-b989-d6182d98e773"
+            name="ExecutionOccurrenceSpecification2">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker
+                  Id="2c42d049-3863-4c0b-9293-591a869f08c2"
+                  LastKnownName="ExecutionEvent"
+                  LastKnownLocation="Concepts.uml" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker
+                Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+                LastKnownName="Views"
+                LastKnownLocation="Concepts.uml" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline
+            Id="a1fbd9eb-b9ba-4f4d-847e-99f7a6f8423a"
+            name="Users"
+            isActor="false"
+            lifelineDisplayName="Users">
+            <topLevelOccurrences>
+              <messageOccurrenceSpecificationMoniker
+                Id="c46d6602-247f-4581-a641-ed73600db410"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="Concepts.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="a3a6e216-d3dd-429d-a106-d8d5252bf192"
+            name="Views"
+            isActor="false"
+            lifelineDisplayName="Views">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="91970d3b-6d5a-419c-9e14-cb3e04c89821"
+                LastKnownName="ExecutionOccurrenceSpecification1"
+                LastKnownLocation="Concepts.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="24c101ea-7fa3-4d27-b989-d6182d98e773"
+                LastKnownName="ExecutionOccurrenceSpecification2"
+                LastKnownLocation="Concepts.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="39cb387a-fce9-40d0-892a-16939aadf0f8"
+            name="Controllers"
+            isActor="false"
+            lifelineDisplayName="Controllers">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="46b1a9e0-b345-4246-b98e-ffd08e77efc4"
+                LastKnownName="ExecutionOccurrenceSpecification11"
+                LastKnownLocation="Concepts.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="ecec4728-75a7-4e1f-a235-6e521de1cdda"
+                LastKnownName="ExecutionOccurrenceSpecification12"
+                LastKnownLocation="Concepts.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="0b7922af-d563-4079-b760-9f4816b44614"
+            name="Models"
+            isActor="false"
+            lifelineDisplayName="Models">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="a8262c9f-e373-4f76-b4ea-4136dd24ee09"
+                LastKnownName="ExecutionOccurrenceSpecification13"
+                LastKnownLocation="Concepts.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="532689ee-7174-4d77-81b0-01478586efce"
+                LastKnownName="ExecutionOccurrenceSpecification14"
+                LastKnownLocation="Concepts.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="3099ce85-c5de-48e0-a0c0-e540fb5f39dc"
+            name="DB"
+            isActor="false"
+            lifelineDisplayName="DB">
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker
+                Id="a399eabd-1cb9-416f-9a4b-43ae190cfbf5"
+                LastKnownName="ExecutionOccurrenceSpecification15"
+                LastKnownLocation="Concepts.uml" />
+              <executionOccurrenceSpecificationMoniker
+                Id="bae76cba-6ea3-4772-bd13-fc2ae515588d"
+                LastKnownName="ExecutionOccurrenceSpecification16"
+                LastKnownLocation="Concepts.uml" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline
+            Id="5be253e1-bcde-4c16-9a92-2b6877d36120"
+            name="ViewModel"
+            isActor="false"
+            lifelineDisplayName="ViewModel" />
+        </lifelines>
+        <messages>
+          <message
+            Id="d0e4d57a-a94c-4bb8-95de-5325dc70de31"
+            name="使用"
+            messageKind="Complete"
+            messageSort="AsynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="c46d6602-247f-4581-a641-ed73600db410"
+                LastKnownName="MessageOccurrenceSpecification1"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="7a455584-351a-41d5-b4a8-993b858459aa"
+                LastKnownName="MessageOccurrenceSpecification2"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="7dd76e55-4fba-49e9-b1ad-ad6157e1bf88"
+            name="Goods列表"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="e40db4d0-0faa-4159-9f47-b8df9b3a935e"
+                LastKnownName="MessageOccurrenceSpecification15"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="6f0a6887-8175-4a91-99fb-38fad14adab8"
+                LastKnownName="MessageOccurrenceSpecification16"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="8603c911-1b1b-4d17-ab62-a58ea208f05f"
+            name="实例化"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="1023e20d-f7df-45a7-89e0-b31756eca249"
+                LastKnownName="MessageOccurrenceSpecification19"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="d943b9f5-1c8c-4bfe-bc21-6cbdb98dd174"
+                LastKnownName="MessageOccurrenceSpecification20"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="26b3eefc-c40a-4f8a-bfad-1290574a75d7"
+            name="读取数据"
+            messageKind="Complete"
+            messageSort="SynchCall"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="70059c3d-1824-4728-b7d9-f5246155908a"
+                LastKnownName="MessageOccurrenceSpecification23"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="31e9f153-3459-4096-84a7-102072fd5460"
+                LastKnownName="MessageOccurrenceSpecification24"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="32e6d49a-6bac-4f24-be5b-8ebfc4bd5eca"
+            name="返回数据集"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="50ed4132-20cc-4133-940e-898c015848c4"
+                LastKnownName="MessageOccurrenceSpecification25"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="b338e004-fa69-4206-b93c-6509341c7044"
+                LastKnownName="MessageOccurrenceSpecification26"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="5b93f20b-e3bd-4ed4-85c8-b9ae67946897"
+            name="返回数据集"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="acf9f28f-db26-4e19-ba57-ba9605971358"
+                LastKnownName="MessageOccurrenceSpecification21"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="7c0c31aa-dfbc-4390-96eb-82f4477d52fb"
+                LastKnownName="MessageOccurrenceSpecification22"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+          <message
+            Id="517022f5-57a1-4450-b0f7-592cafd8d135"
+            name="返回结果"
+            messageKind="Complete"
+            messageSort="Reply"
+            createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="7daaf7a2-791a-4941-8aaf-75f6a6044b77"
+                LastKnownName="MessageOccurrenceSpecification17"
+                LastKnownLocation="Concepts.uml" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker
+                Id="e656de5b-2318-4a9f-b4b7-90746da0ca1b"
+                LastKnownName="MessageOccurrenceSpecification18"
+                LastKnownLocation="Concepts.uml" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="e5adfdbc-91e0-4bbb-a7ca-86f2ef007ebc"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="2c42d049-3863-4c0b-9293-591a869f08c2"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="fc4fdbf3-afb1-485b-8bbf-ea08dd3be695"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="fc342396-f5f5-44bb-9f28-9394de4a96c5"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="7381e0d1-8ae0-464c-8757-434a7501d40c"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="de53f429-7772-4801-ab34-0b3d4b8a69c5"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="b3611bed-abda-4f6b-aa0c-16813ec796e8"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent
+        Id="7c355514-624b-479f-ada8-b99e70ad0e6e"
+        name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

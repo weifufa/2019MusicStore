@@ -1,0 +1,64 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>jQueryValidation</title>
+    <script type="text/javascript" src="~/Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.validate.js"></script>
+    <style type="text/css">
+        .error {
+            color:red;
+        }
+    </style>
+
+</head>
+<body>
+    <form action="">
+        <table>
+            <tr>
+                <td>姓名</td>
+                <td><input class="required" id="name" name="name" type="text"/></td>
+            </tr>
+            <tr>
+                <td>出生日期</td>
+                <td><input class="required date" id="birthDate" name="birthDate" type="text" /></td>
+            </tr>
+            <tr>
+                <td>电子邮件</td>
+                <td><input class="required email" id="emailAddress" name="emailAddress" type="text" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="提交" /></td>
+            </tr>
+        </table>
+    </form>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("form").validate({
+                rules:{
+                    name:{required:true},
+                    birthDate:{required:true,date:true},
+                    emailAddress:{required:true,email:true},
+                },
+                messages:{
+                    name:{required:"姓名字段不能为空值"},
+                    birthDate:{
+                        required:"请输入日期内容",
+                        date:"请输入合法的日期"
+                    },
+                    emailAddress:{
+                        required:"电子邮件是非空字段",
+                        email:"请输入合法Email地址"
+                    }
+                }
+            })
+        })
+    </script>
+</body>
+</html>

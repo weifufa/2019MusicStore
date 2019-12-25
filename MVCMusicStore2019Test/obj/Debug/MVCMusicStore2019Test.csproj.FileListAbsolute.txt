@@ -1,0 +1,382 @@
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csproj.MVCMusicStore2019Test.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191213\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191214\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\csc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\vbc.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.reporters.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.runner.utility.net452.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll.config
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019Test.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebActivatorEx.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\WebGrease.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Castle.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Moq.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Helpers.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Mvc.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.assert.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\xunit.execution.desktop.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\System.Web.Optimization.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Abstractions.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Container.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Unity.Mvc.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Newtonsoft.Json.xml
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\Antlr3.Runtime.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Helpers.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\bin\Debug\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\2019MusicStore\MVCMusicStore2019Test\obj\Debug\MVCMusicStore2019Test.pdb

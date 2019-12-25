@@ -1,0 +1,19 @@
+﻿<configuration>
+    <system.web>
+        <httpHandlers>
+        	<remove verb="*" path="resource.axd" />
+        	<add verb="GET,HEAD" path="resource.axd" type="Web.Ajax.Handlers.Resource" validate="true" />
+        </httpHandlers>
+        <pages>
+            <controls>
+                <add tagPrefix="c" namespace="Web.Ajax.Controls" assembly="Web.Ajax" />
+            </controls>
+        </pages>
+    </system.web>
+    
+    <system.webServer>
+        <handlers>
+            <add name="ResourceHandler" path="resource.axd" verb="*" type="Web.Ajax.Handlers.Resource,Web.Ajax" resourceType="Unspecified" preCondition="integratedMode" />
+        </handlers>
+    </system.webServer>
+</configuration>

@@ -1,0 +1,22 @@
+﻿@model MVCMusicStore2019.Controllers.ExampleControllers.ShoppingCart
+@{
+    ViewBag.Title = "Shopping Cart购物界面";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>JavaScripResult应用案例</h2>
+@using (Ajax.BeginForm("ProcessOrder", new AjaxOptions()))
+{
+    for (int i = 0; i < Model.Count; i++)
+    {
+        <div>
+            @Html.HiddenFor(x => x[i].Id)
+            @Html.HiddenFor(x => x[i].Name)
+
+            @Html.DisplayFor(x => x[i].Name)
+            @Html.EditorFor(x => x[i].Quantity)
+        </div>
+    }
+    <input  type="submit" value="提交订单"/>
+}
+
+
