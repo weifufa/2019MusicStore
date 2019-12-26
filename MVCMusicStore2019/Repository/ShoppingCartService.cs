@@ -46,7 +46,7 @@ namespace MVCMusicStore2019.Repository
                 .Select(y => y.Items)
                 .ToList();
             //获取详单的id
-            var entty = entityCollection.Select(x => x.Select(y => y.Id));
+            var entity = entityCollection.Select(x => x.Select(y => y.Id));
             var vmCollection = new List<ShoppingCartItem>();
             //把entityCollection读到vmCollection
             foreach(var items in entityCollection)
@@ -58,8 +58,10 @@ namespace MVCMusicStore2019.Repository
                     bo.AlbumName = item.AlbumName;
                     bo.Price = item.Price;
                     bo.Quantity = item.Quantity;
+                    vmCollection.Add(item);
                 }
             }
+            
             return vmCollection;
         }
 
@@ -102,6 +104,7 @@ namespace MVCMusicStore2019.Repository
                         _context.SaveChanges();
                     }
                 }
+                
             }
         }
     }
