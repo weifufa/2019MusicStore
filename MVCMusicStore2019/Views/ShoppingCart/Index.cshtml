@@ -1,6 +1,7 @@
 ﻿@using MVCMusicStore2019.ViewModels.MusicStores
 @model ShoppingCartViewModel
 @using MVCMusicStore2019.Models.MusicStores
+
 @*@model ShoppingCartItem*@
 <div class="panel-heading">
     @ViewBag.Title
@@ -8,6 +9,7 @@
 <table class="table table-striped">
     <tr>
         <th>专辑</th>
+        <th>封面链接</th>
         <th>价格</th>
         <th>数量</th>
         <th>金额</th>
@@ -23,11 +25,13 @@
         {
             <tr>
                 <td>
-                    @Html.ActionLink(@item.AlbumName, " ", new { id = @item.Id, price = item.Price })
+                   @Html.ActionLink(@item.AlbumName,"Detail", "MusicIndex",new { id = @item.Id, price = item.Price })
                 </td>
+                <td><img src="@Url.Content("/Models/Pics/")" class="poster"style="width:65px" /></td>
                 <td>
                     ￥@item.Price.ToString("#0.00")
                 </td>
+                <td>@item.Quantity</td>
                 <td>
                     ￥@item.SubTotalPrice.ToString("#0.00")
                 </td>
