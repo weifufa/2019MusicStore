@@ -1,21 +1,20 @@
 ﻿@using MVCMusicStore2019.ViewModels.MusicStores
 @model ShoppingCartViewModel
 @using MVCMusicStore2019.Models.MusicStores
-
 @*@model ShoppingCartItem*@
 <div class="panel-heading">
     @ViewBag.Title
-    <link rel="stylesheet" href="~/Content/ShoppingCart.css" />
+    @*<link rel="stylesheet" href="~/Content/ShoppingCart.css" />*@
 </div>
 <table class="table table-striped">
     <tr>
-        <th><label><input class="check-all check" type="checkbox" />&nbsp;全选</label></th>
+        @*<th><label><input class="check-all check" type="checkbox" />&nbsp;全选</label></th>*@
         <th>专辑</th>
         <th>封面链接</th>
         <th>价格</th>
         <th>数量</th>
         <th>金额</th>
-        <th>操作</th>
+        <th>删除</th>
     </tr>
     @if (this.Model.Items.Count() == 0||Model.Items==null)
     {
@@ -26,40 +25,52 @@
         foreach (ShoppingCartItem item in this.Model.Items)
         {
             <tr>
-                <td class="checkbox"><input class="check-one check" type="checkbox" /></td>
+                @*<td>
+                    <input type="hidden" id="item_id" value="@item.Id" />
+                </td>
+                <td>
+                    <div id="urlimg" style="height:65px;width:65px">
+                    </div>
+                </td>*@
                 <td>
                    @Html.ActionLink(@item.AlbumName,"Detail", "MusicIndex",new { id = @item.Id, price = item.Price })
                 </td>
-                <td><img src="@Url.Content("/Models/Pics/")" class="poster"style="width:65px" /></td>
+                <td><img src="@Url.Content("/Models/Pics/"+item)" class="poster"style="width:65px" /></td>
                 <td>
                     ￥@item.Price.ToString("#0.00")
                 </td>
-                @*<td>@item.Quantity</td>*@
-                <td class="count">
+                <td>@item.Quantity</td>
+                @*<td class="count">
                     <span class="reduce"></span>
                     <input class="count-input" type="text" value="1" />
                     <span class="add">+</span>
-                </td>
+                </td>*@
                 <td>
                     ￥@item.SubTotalPrice.ToString("#0.00")
                 </td>
-                <td>@Html.ActionLink("删除", "Delete", new { id = item.Id },
-             new { @class = "btn btn-danger btn-xs" }
-             )</td>
+                @*<td>@Html.ActionLink("移除", "Delete", new { id = item.Id }
+             ,new { @class = "btn btn-danger btn-xs" })
+                </td>*@
+                <td>
+          @using (Html.BeginForm("Delete", "ShoppingCart", new { id = item.Id }))
+          {
+            <button style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"></button>
+          }
+               </td>
             </tr>
         }
-        @*<tr>
+        <tr>
             <td colspan="3"></td>
             <td><b>总价：￥@this.Model.TotalPrice.ToString("#0.00")</b></td>
             <td>
 
             </td>
-        </tr>*@
+        </tr>
 
   
     }
 </table>
-<div class="foot" id="foot">
+@*<div class="foot" id="foot">
     <label class="fl select-all"><input type="checkbox" class="check-all check" />&nbsp;全选</label>
     <a class="fl delete" id="deleteAll" href="javascript:;">删除</a>
     <div class="fr closing">结 算</div>
@@ -72,10 +83,10 @@
     </div>
     <div class="selected-view">
         <div id="selectedViewList" class="clearfix">
-            <!--<div><img src="images/1.jpg"><span>取消选择</span></div>-->
-        </div>
+            @*<div><img src="images/1.jpg"><span>取消选择</span></div>*@
+        @*</div>
         <span class="arrow">◆<span>◆</span></span>
     </div>
-</div>
+</div>*@
 @Scripts.Render("~/bundles/jquery")
 <script src="~/Scripts/MusicStores/ShoppingCart.js"></script>

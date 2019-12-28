@@ -107,5 +107,39 @@ namespace MVCMusicStore2019.Repository
                 
             }
         }
+
+        public bool Delete(Guid id)
+        {
+            ShoppingCartItem vm = _context.ShoppingCartItems.FirstOrDefault(x => x.Id == id);
+            var dbSet = _context.Set(typeof(ShoppingCartItem)); //获取实体的数据集
+            bool returnStatus = true; //定义状态值
+            var entity = dbSet.Find(id);//根据ID查找数据集中的一条记录
+            if (entity == null)
+            {
+                returnStatus = false;//当查找结果为空值，返回false
+                return returnStatus;
+            }
+            else
+            {
+                if (returnStatus)
+                {
+                    try
+                    {
+                        vm.Quantity--;
+                        if (vm.Quantity == 0)
+                        {
+                            dbSet.Remove(entity);//当查找结果为true，移除本次查找记录
+                        }
+                        _context.SaveChanges();//存盘、保存
+                        return returnStatus;
+                    }
+                    catch
+                    {
+                        returnStatus = false;
+                    }
+                }
+            }
+            return returnStatus;
+        }
     }
 }

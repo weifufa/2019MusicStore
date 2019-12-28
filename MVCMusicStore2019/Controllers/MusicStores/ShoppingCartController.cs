@@ -35,10 +35,11 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             return RedirectToAction("Index");
         }
         // GET: ShoppingCart
-        //public JsonResult GetUrl(Guid id)
-        //{
-        //    return GetUrl;
-        //}
+        public JsonResult Gteimg(Guid id)
+        {
+            var Album = _Service.GetAll().SingleOrDefault(x => x.Id == id);
+          return Json(Album);
+        }
         public ActionResult Index()
         {
             //var vmCollention = new List<ShoppingCartItem>();
@@ -51,5 +52,29 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             //vmCollention.Add();
             return View(vm);
         }
+
+   
+
+    public ActionResult Delete(Guid id)
+    {
+        if (id != null)
+        {
+            if (_cartService.Delete(id))
+            {
+                ViewBag.Message = "删除成功！";
+
+            }
+            else
+            {
+                ViewBag.Message = "删除失败";
+            }
+            return RedirectToAction("Index");
+        }
+        else
+        {
+            ViewBag.Message = "请正确选择需要删除的记录";
+        }
+        return View();
     }
+}
 }
