@@ -35,20 +35,21 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             return RedirectToAction("Index");
         }
         // GET: ShoppingCart
+        //public JsonResult GetUrl(Guid id)
+        //{
+        //    return GetUrl;
+        //}
         public ActionResult Index()
         {
-            //var vmCollention = new List<ShoppingCartViewModel>();
+            //var vmCollention = new List<ShoppingCartItem>();
             var cart = _cartService.GetCart();//获取购物车
             ShoppingCartViewModel vm = new ShoppingCartViewModel(cart);
             {
-
+               
             };
-            //vmCollention.Add(vm);
+            vm.Items = cart.Items;
+            //vmCollention.Add();
             return View(vm);
-        }
-        public ActionResult Index2()
-        {
-            return View();
         }
     }
 }

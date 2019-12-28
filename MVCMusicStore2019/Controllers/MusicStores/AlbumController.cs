@@ -33,7 +33,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
 
             }
             ViewBag.Title = "专辑";
-            return View(vmCollention); ;
+            return View(vmCollention);
         }
    
 
