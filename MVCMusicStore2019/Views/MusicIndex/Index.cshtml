@@ -60,9 +60,12 @@
                             }
                             @*@Ajax.ActionLink("点赞", "AddCTR", "MusicAlbum", new { id = item.Id },ajaxOptions,
                            new { @class = "btn btn-warning btn-xs glyphicon glyphicon-thumbs-up", })*@
+
+
                             @Ajax.ActionLink("点赞", "AddCTR", "MusicIndex", new { id = item.Id },
                            new AjaxOptions() { OnComplete = "return AddCTR()" }, new { @class = "btn btn-warning btn-xs glyphicon glyphicon-thumbs-up" })
-
+             
+                        
                         </td>
                             @*<button class="btn btn-warning btn-xs glyphicon glyphicon-thumbs-up"></button>
                             <button class="btn btn-danger btn-xs glyphicon glyphicon glyphicon-usd"></button>
