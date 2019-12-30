@@ -28,3 +28,6 @@ textarea {
 {
     width:100%;
 }
+.cardEndLine{
+    display:inline-block;
+}

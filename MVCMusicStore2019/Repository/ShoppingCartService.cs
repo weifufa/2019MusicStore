@@ -51,14 +51,15 @@ namespace MVCMusicStore2019.Repository
             //把entityCollection读到vmCollection
             foreach(var items in entityCollection)
             {
-                ShoppingCartItem bo = new ShoppingCartItem();
+               
                 foreach(var item in items)
                 {
+                    ShoppingCartItem bo = new ShoppingCartItem();
                     bo.Id = item.Id;
                     bo.AlbumName = item.AlbumName;
                     bo.Price = item.Price;
                     bo.Quantity = item.Quantity;
-                    vmCollection.Add(item);
+                    vmCollection.Add(bo);
                 }
             }
             
@@ -126,6 +127,7 @@ namespace MVCMusicStore2019.Repository
                     try
                     {
                         vm.Quantity--;
+                     
                         if (vm.Quantity == 0)
                         {
                             dbSet.Remove(entity);//当查找结果为true，移除本次查找记录

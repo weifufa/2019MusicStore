@@ -9,84 +9,79 @@
 <table class="table table-striped">
     <tr>
         @*<th><label><input class="check-all check" type="checkbox" />&nbsp;全选</label></th>*@
-        <th>专辑</th>
         <th>封面链接</th>
+        <th>专辑</th>
+       
         <th>价格</th>
         <th>数量</th>
         <th>金额</th>
         <th>删除</th>
     </tr>
-    @if (this.Model.Items.Count() == 0||Model.Items==null)
+    @if (this.Model.Items.Count() == 0 || Model.Items == null)
     {
         <tr><td colspan="3" class="text-center">没有用户数据列表</td></tr>
     }
     else
     {
         foreach (ShoppingCartItem item in this.Model.Items)
-        {
+        {@Html.HiddenFor(modeItem=>item.Id)
             <tr>
-                @*<td>
-                    <input type="hidden" id="item_id" value="@item.Id" />
+                <td>
+                    <img src="~/Models/Pics/@Html.Action("GetAlbumUrl", new { id=@item.Id})" style="width:65px" />
+                    @*@Html.Action("GetAlbumUrl", new { id = @item.Id })*@
                 </td>
                 <td>
-                    <div id="urlimg" style="height:65px;width:65px">
-                    </div>
-                </td>*@
-                <td>
-                   @Html.ActionLink(@item.AlbumName,"Detail", "MusicIndex",new { id = @item.Id, price = item.Price })
+                    @Html.ActionLink(@item.AlbumName,"GetDetailUrl", new { id = @item.Id, price = item.Price })
                 </td>
-                <td><img src="@Url.Content("/Models/Pics/"+item)" class="poster"style="width:65px" /></td>
+             
                 <td>
                     ￥@item.Price.ToString("#0.00")
                 </td>
                 <td>@item.Quantity</td>
-                @*<td class="count">
-                    <span class="reduce"></span>
-                    <input class="count-input" type="text" value="1" />
-                    <span class="add">+</span>
-                </td>*@
+
+
                 <td>
                     ￥@item.SubTotalPrice.ToString("#0.00")
                 </td>
-                @*<td>@Html.ActionLink("移除", "Delete", new { id = item.Id }
-             ,new { @class = "btn btn-danger btn-xs" })
+       
+                @*<td>
+                    @using (Html.BeginForm("Delete", "ShoppingCart", new { id = item.Id }))
+                    {
+                        <button style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"></button>
+                    }
                 </td>*@
                 <td>
-          @using (Html.BeginForm("Delete", "ShoppingCart", new { id = item.Id }))
-          {
-            <button style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"></button>
-          }
-               </td>
+            @using (Html.BeginForm("Remove", "ShoppingCart", new { id = item.Id }))
+            {
+                <input type="submit" value="" class="remove" alt="移除购物车" style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"/>
+            }
+        </td>
             </tr>
         }
         <tr>
             <td colspan="3"></td>
+            <b>总数量：@this.Model.TotalQuantity</b>&nbsp;&nbsp;&nbsp;&nbsp;
             <td><b>总价：￥@this.Model.TotalPrice.ToString("#0.00")</b></td>
-            <td>
-
-            </td>
+            <td></td>
         </tr>
 
-  
+
     }
 </table>
-@*<div class="foot" id="foot">
-    <label class="fl select-all"><input type="checkbox" class="check-all check" />&nbsp;全选</label>
-    <a class="fl delete" id="deleteAll" href="javascript:;">删除</a>
-    <div class="fr closing">结 算</div>
-    <div class="fr total">合计：￥<span id="priceTotal">0.00</span></div>
-    <div class="fr selected" id="selected">
-        已选商品
-        <span id="selectedTotal">0</span>件
-        <span class="arrow up">︽</span>
-        <span class="arrow down">︾</span>
+<div class="text-left">
+    @Html.ValidationSummary()<div style="clear:both"></div>
+</div>
+<div class="text-right">
+    <input class="cardEndLine" id="EmptyCart" type="button" value="清空购物车" />
+    <div class="cardEndLine">
+        <img src="@Url.Content("/images/continueshopping.jpg")" alt="" />
+        @Html.RouteLink("继续购物", "MusicIndex")
     </div>
-    <div class="selected-view">
-        <div id="selectedViewList" class="clearfix">
-            @*<div><img src="images/1.jpg"><span>取消选择</span></div>*@
-        @*</div>
-        <span class="arrow">◆<span>◆</span></span>
-    </div>
-</div>*@
+    @if (Model.TotalQuantity > 0)
+    {
+        <img src="@Url.Content("/images/payment.jpg")" alt="" />
+        @Html.RouteLink("结账支付", "CheckOut")
+    }
+</div>
 @Scripts.Render("~/bundles/jquery")
 <script src="~/Scripts/MusicStores/ShoppingCart.js"></script>
