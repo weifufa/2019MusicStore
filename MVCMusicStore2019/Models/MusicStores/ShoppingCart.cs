@@ -34,6 +34,7 @@ namespace MVCMusicStore2019.Models.MusicStores
     public class ShoppingCartItem
     {
         public Guid Id { get; set; }  //一AlbumId作为Items的Id
+        public Guid AlbumId { get; set;}
         public string AlbumName { get; set; }
         public decimal Price { get; set; }  //价格
         public int Quantity { get; set; }  //数量

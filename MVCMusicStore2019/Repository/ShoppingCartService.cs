@@ -56,6 +56,7 @@ namespace MVCMusicStore2019.Repository
                 {
                     ShoppingCartItem bo = new ShoppingCartItem();
                     bo.Id = item.Id;
+                    bo.AlbumId = item.AlbumId;
                     bo.AlbumName = item.AlbumName;
                     bo.Price = item.Price;
                     bo.Quantity = item.Quantity;
@@ -81,8 +82,9 @@ namespace MVCMusicStore2019.Repository
                 {
                     ShoppingCartItem item = new ShoppingCartItem
                     {
-                        Id=id,
-                        AlbumName=name,
+                        Id = Guid.NewGuid(),
+                        AlbumId = id,
+                        AlbumName =name,
                         Price=price,
                         Quantity=1,
                     };

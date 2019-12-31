@@ -32,6 +32,12 @@ namespace MVCMusicStore2019
                   constraints:new { httpMethod = new HttpMethodConstraint("GET") }
           );
             routes.MapRoute(
+           name: "Detail",
+           url: "MusicIndex/Detail",
+           defaults: new { controller = "MusicIndex", action = "Detail" },
+               constraints: new { httpMethod = new HttpMethodConstraint("GET") }
+            );
+       routes.MapRoute(
               name: "CheckOut",
               url: "Order/CheckOut",
               defaults: new { controller = "Order", action = "CheckOut" },
@@ -45,12 +51,7 @@ namespace MVCMusicStore2019
                  constraints:new { httpMethod = new HttpMethodConstraint("POST") }
          );
 
-       //     routes.MapRoute(
-       //    name: "GetDetailUrl",
-       //    url: "MusicIndex/Detail",
-       //    defaults: new { controller = "MusicIndex", action = "Detail" },
-       //        constraints: new { httpMethod = new HttpMethodConstraint("GET") }
-       //);
+     
         }
     }
 }

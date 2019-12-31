@@ -58,7 +58,7 @@ namespace MVCMusicStore2019.Controllers
                         //通过将IsPersistent属性设定为true，使认证Cookie在浏览器中得以持久化（用户新会话时，不必在此认证）
                         IsPersistent = false
                     }, ident);
-                    return Redirect(returnUrl);
+                    return RedirectToAction("Index","Home");
                 }
             }
             return View(details);
