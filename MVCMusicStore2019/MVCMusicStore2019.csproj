@@ -213,6 +213,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MusicStores\AlbumTypeController.cs" />
+    <Compile Include="Controllers\MusicStores\OrderController.cs" />
     <Compile Include="Controllers\MusicStores\ShoppingCartController.cs" />
     <Compile Include="Controllers\StoreController.cs" />
     <Compile Include="Controllers\UinityControllerFactory.cs" />
@@ -434,6 +435,7 @@
     <Folder Include="Views\ExampJavaScriptResultApplication\" />
     <Folder Include="Views\ExampleAlbumType\" />
     <Folder Include="Views\ExampleLINQLambda\" />
+    <Folder Include="Views\Order\" />
     <Folder Include="Views\UinityControllerFactory\" />
   </ItemGroup>
   <ItemGroup>
