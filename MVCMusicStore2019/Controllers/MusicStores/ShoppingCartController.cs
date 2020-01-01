@@ -28,7 +28,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             {
                 var cart = db.ShoppingCarts.Where(x => x.UserId == userId).FirstOrDefault();
                 var album = _Service.GetAll().Single(x => x.Id == id);//获取购物车
-                var item = db.ShoppingCartItems.SingleOrDefault(x => x.Id == album.Id);
+                var item = db.ShoppingCartItems.SingleOrDefault(x => x.AlbumId == album.Id);
                 if (cart != null)
                 {
                     if (item != null)
@@ -40,7 +40,8 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                         cart.Items = new List<ShoppingCartItem>();
                         ShoppingCartItem entity = new ShoppingCartItem
                         {
-                            Id = album.Id,
+                            Id = Guid.NewGuid(),
+                            AlbumId=album.Id,
                             AlbumName = album.Name,
                             Quantity = 1,
                             Price = album.Price
@@ -52,7 +53,8 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                 {
                     ShoppingCartItem entity = new ShoppingCartItem
                     {
-                        Id = album.Id,
+                        Id = Guid.NewGuid(),
+                        AlbumId = album.Id,
                         AlbumName = album.Name,
                         Quantity = 1,
                         Price = album.Price,
@@ -94,13 +96,14 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             ShoppingCartViewModel vm = new ShoppingCartViewModel(cart);
             if (cart != null)
             {
+           
                 cart.Items = _cartService.GetItems(cart.Id);
                 if (cart.Items.Count() != 0)
                 {
                     vm.Items = cart.Items;
                 }
             }
-            //vm.Items = cart.Items;
+        // vm.Items = cart.Items;
             //vmCollention.Add();
             return View(vm);
         }
@@ -149,6 +152,26 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                 albumUrl = albums.SingleOrDefault(x => x.Id == id).UrlString;
             }
             return albumUrl;
+        }
+
+        public JsonResult EmpryCart(string id)
+        {
+            var cart = _cartService.GetCart();
+            if(cart!=null)
+            {
+                List<ShoppingCartItem> items = new List<ShoppingCartItem>();
+                foreach(var entity in cart.Items)
+                {
+                    items.Add(db.Set<ShoppingCartItem>().Attach(entity));//将对象读取到上下文
+                }
+            
+            db.ShoppingCartItems.RemoveRange(items);
+         
+            db.SaveChanges();
+            return Json("成功清空购物车！");
+
+            }
+            return Json("清空购物车失败！");
         }
 
         //public ActionResult Delete(Guid id)

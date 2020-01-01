@@ -4,7 +4,7 @@
 }
 <h2>@ViewBag.Title</h2>
 <div class="albumDetail">
-    <div><img src="/Models/Pics/@Url.Content(Model.UrlString)" class="poster" alt="@Model.Name" style="width:65px" /></div> 
+    <div><img src="/Models/Pics/@Url.Content(Model.UrlString)" class="poster" alt="@Model.Name"/></div> 
     <div>@Html.LabelFor(x=>x.ArtistName):@Model.ArtistName</div>
     <div>@Html.LabelFor(x => x.GenreName):@Model.GenreName</div>
     <div>@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</div>

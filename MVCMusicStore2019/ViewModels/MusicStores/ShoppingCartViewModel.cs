@@ -19,8 +19,8 @@ namespace MVCMusicStore2019.ViewModels.MusicStores
         public ShoppingCartViewModel(){}
         public ShoppingCartViewModel(ShoppingCart model)
         {
-            //Items = new List<ShoppingCartItem>();
-            if(Items!=null)
+            Items = new List<ShoppingCartItem>();
+            if (Items!=null)
             {
                 this.Items = model.Items;
             }
