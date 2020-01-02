@@ -27,8 +27,14 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             if (id != Guid.Empty)
             {
                 var cart = db.ShoppingCarts.Where(x => x.UserId == userId).FirstOrDefault();
+
+                var cartItems = db.ShoppingCarts.Where(x => x.UserId == userId).SelectMany(x => x.Items);//购物车Items
+
                 var album = _Service.GetAll().Single(x => x.Id == id);//获取购物车
-                var item = db.ShoppingCartItems.SingleOrDefault(x => x.AlbumId == album.Id);
+
+                var item = cartItems.SingleOrDefault(x => x.AlbumId == album.Id);
+
+                //var item = db.ShoppingCartItems.SingleOrDefault(x => x.AlbumId == album.Id);
                 if (cart != null)
                 {
                     if (item != null)
@@ -164,7 +170,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                 {
                     items.Add(db.Set<ShoppingCartItem>().Attach(entity));//将对象读取到上下文
                 }
-            
+           
             db.ShoppingCartItems.RemoveRange(items);
          
             db.SaveChanges();

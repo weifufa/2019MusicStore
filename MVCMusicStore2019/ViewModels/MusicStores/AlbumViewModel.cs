@@ -49,6 +49,7 @@ namespace MVCMusicStore2019.ViewModels.MusicStores
 
         [Display(Name = "价格")]
         [DataType(DataType.Currency, ErrorMessage = "请输入合法的价格")]
+        [Range(typeof(decimal), "0.00", "100.00", ErrorMessage = "贡献度合法数值为0.00~100.00之间")]
         public decimal Price { get; set; }  //价格
 
         [Display(Name = "封面链接")]
@@ -131,7 +132,7 @@ namespace MVCMusicStore2019.ViewModels.MusicStores
         public string LanguageClassification { get; set; } //语种
 
         [Display(Name = "价格")]
-        [DataType(DataType.Currency, ErrorMessage = "请输入合法的价格")]
+       [Range(typeof(decimal), "0.00", "100.00", ErrorMessage = "合法价格为0.00~100.00之间")]
         public decimal Price { get; set; }  //价格
 
         [Display(Name = "封面链接")]

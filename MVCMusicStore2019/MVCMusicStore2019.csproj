@@ -245,7 +245,9 @@
     <Compile Include="Models\MusicStores\ShoppingCart.cs" />
     <Compile Include="Models\PopularHotList.cs" />
     <Compile Include="Models\Student.cs" />
+    <Compile Include="Repository\IOrderService.cs" />
     <Compile Include="Repository\IShoppingCartService.cs" />
+    <Compile Include="Repository\OrderService.cs" />
     <Compile Include="Repository\ShoppingCartService.cs" />
     <Compile Include="ViewModels\ExamleDemo\StudentViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -262,6 +264,7 @@
     <Compile Include="ViewModels\MusicStores\ArtistViewModel.cs" />
     <Compile Include="ViewModels\MusicStores\GenreDisplayViewModel.cs" />
     <Compile Include="ViewModels\MusicStores\GenreViewModel.cs" />
+    <Compile Include="ViewModels\MusicStores\OrderViewModel.cs" />
     <Compile Include="ViewModels\MusicStores\ShoppingCartViewModel.cs" />
     <Compile Include="ViewModels\UserLoginViewModel.cs" />
   </ItemGroup>
@@ -423,6 +426,7 @@
     <Content Include="Views\MusicIndex\Detail.cshtml" />
     <Content Include="Views\MusicIndex\Index.cshtml" />
     <Content Include="Views\ShoppingCart\Index.cshtml" />
+    <Content Include="Views\Order\CheckOut.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -435,7 +439,6 @@
     <Folder Include="Views\ExampJavaScriptResultApplication\" />
     <Folder Include="Views\ExampleAlbumType\" />
     <Folder Include="Views\ExampleLINQLambda\" />
-    <Folder Include="Views\Order\" />
     <Folder Include="Views\UinityControllerFactory\" />
   </ItemGroup>
   <ItemGroup>

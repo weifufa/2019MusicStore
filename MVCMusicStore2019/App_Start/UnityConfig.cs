@@ -44,6 +44,7 @@ namespace MVCMusicStore2019
             unityContainer.RegisterType<IEntityRepository<AlbumType>, EntityRepository<AlbumType>>();
             unityContainer.RegisterType<IEntityRepository<PopularHotList>, EntityRepository<PopularHotList>>();
             unityContainer.RegisterType<IShoppingCartService,ShoppingCartService>(); //购物车容器注册
+            //unityContainer.RegisterType<IOrderService, OrderService>();
             //#endregion
 
             //MVC控制器和类注入解析

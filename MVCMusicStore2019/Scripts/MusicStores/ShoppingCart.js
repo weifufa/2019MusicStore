@@ -29,12 +29,12 @@
 
 $(document).ready(function () {
     $('#EmpryCart').bind("click", function () {
-        alert('点击');
+        //alert('点击');
         var id = $('#Id').val();
-        alert(id);
+        //alert(id);
         $.ajax({
             type: 'POST',
-            url: "/ShoppingCart/EmpryCart" + id,
+            url: "/ShoppingCart/EmpryCart",
             dataTpye: 'json',
             success: function (evt) {
                 window.alert(evt);

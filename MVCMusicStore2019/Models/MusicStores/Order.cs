@@ -49,12 +49,14 @@ namespace MVCMusicStore2019.Models.MusicStores
         public Guid Id { get; set; }//订单编号
         public Guid UserId { get; set; }//待商劵
         public DateTime OrderTime { get; set; }//订单生成时间
+        public bool OrderStatus { get; set; }//订单状态，默认值：true,
         public virtual ICollection<OrderItem> OrderItems { get; set; }
         public Order()
         {
        
             this.Id = Guid.NewGuid();
             this.OrderTime = DateTime.Now;
+            this.OrderStatus = true;
             this.OrderItems = new HashSet<OrderItem>();
         }
         public Order(Order order)
@@ -62,7 +64,7 @@ namespace MVCMusicStore2019.Models.MusicStores
             this.Id = Guid.NewGuid();
             this.UserId = order.UserId;
             this.OrderTime = order.OrderTime;
-
+            this.OrderStatus = order.OrderStatus;
 
         }
     }
