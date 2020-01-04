@@ -13,6 +13,7 @@ namespace MVCMusicStore2019.Models.MusicStores
         public Guid Id { get; set; }
         public Guid AlbumId { get; set; }//专辑id
         public int Quantity { get; set; }//数量
+        public decimal Price { get; set; }
         public virtual Order Order { get; set; }//对应订单
         public virtual Album Album { get; set; }
         //是否需要专辑的外键
