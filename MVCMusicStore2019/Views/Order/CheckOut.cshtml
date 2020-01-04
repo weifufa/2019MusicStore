@@ -1,7 +1,27 @@
 ﻿@using MVCMusicStore2019.ViewModels.MusicStores
-@model ShoppingCartViewModel
+@model OrderViewModel
 @using MVCMusicStore2019.Models.MusicStores
 @*@model ShoppingCartItem*@
 <div class="panel-heading">
  <h3>订单管理</h3>
 </div>
+<table class="table table-striped">
+    <tr>
+       
+        <th>专辑</th>
+        <th>价格</th>
+        <th>数量</th>
+        <th>金额</th>
+    </tr>
+    @if (this.Model.Id == null)
+    {
+        <tr><td colspan="6" class="text-center">没有订单</td></tr>
+    }
+    else
+    {
+        //foreach (var item in Model)
+        //    {
+
+        //    }
+    }
+    </table>
