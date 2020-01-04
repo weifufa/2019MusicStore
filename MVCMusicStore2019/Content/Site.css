@@ -31,3 +31,9 @@ textarea {
 .cardEndLine{
     display:inline-block;
 }
+#myWeather{
+    position:absolute;
+    top:50px;
+    right:30px;
+    z-index:3;
+}

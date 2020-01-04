@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMusicStore2019", "MVCMusicStore2019\MVCMusicStore2019.csproj", "{7EE688FB-0061-4887-808D-465850CEDED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMusicStore2019.Tests", "MVCMusicStore2019.Tests\MVCMusicStore2019.Tests.csproj", "{0E5EA428-99DA-4AF5-90C6-A806AF3061C6}"
-EndProject
 Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject", "ModelingProject\ModelingProject.modelproj", "{A329C87D-7ADE-4BB8-BED9-90581FF6F028}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMusicStore2019Test", "MVCMusicStore2019Test\MVCMusicStore2019Test.csproj", "{F766765A-D0A5-45DF-BF6C-F89279A90DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C8C824EE-1B2A-42E6-B0C8-82A75619236B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{7EE688FB-0061-4887-808D-465850CEDED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE688FB-0061-4887-808D-465850CEDED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE688FB-0061-4887-808D-465850CEDED8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E5EA428-99DA-4AF5-90C6-A806AF3061C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E5EA428-99DA-4AF5-90C6-A806AF3061C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E5EA428-99DA-4AF5-90C6-A806AF3061C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E5EA428-99DA-4AF5-90C6-A806AF3061C6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A329C87D-7ADE-4BB8-BED9-90581FF6F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A329C87D-7ADE-4BB8-BED9-90581FF6F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A329C87D-7ADE-4BB8-BED9-90581FF6F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{F766765A-D0A5-45DF-BF6C-F89279A90DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F766765A-D0A5-45DF-BF6C-F89279A90DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F766765A-D0A5-45DF-BF6C-F89279A90DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C824EE-1B2A-42E6-B0C8-82A75619236B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C824EE-1B2A-42E6-B0C8-82A75619236B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C824EE-1B2A-42E6-B0C8-82A75619236B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C824EE-1B2A-42E6-B0C8-82A75619236B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

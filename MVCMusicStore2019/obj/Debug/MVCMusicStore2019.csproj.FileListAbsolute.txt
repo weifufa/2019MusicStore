@@ -696,7 +696,6 @@ E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019Musi
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\Web.Ajax.dll
-E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
 E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\csc.exe
 E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 E:\2019年上学期\20191211\2019MusicStore\MVCMusicStore2019\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -1503,3 +1502,4 @@ E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicSto
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
