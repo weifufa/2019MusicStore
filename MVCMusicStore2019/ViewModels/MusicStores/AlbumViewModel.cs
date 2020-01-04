@@ -71,21 +71,21 @@ namespace MVCMusicStore2019.ViewModels.MusicStores
             this.LanguageClassification = model.LanguageClassification;
             this.Price = model.Price;
             this.UrlString = model.UrlString;
-            if (model.Genre != null)
-            {
-                this.GenreId = model.Genre.Id;
-                this.GenreName = model.Genre.Name;
-            }
-            if (model.AlbumType != null)
-            {
-                this.AlbumTypeId = model.AlbumType.Id;
-                this.AlbumTypeName = model.AlbumType.Name;
-            }
-            if (model.Artist != null)
-            {
-                this.ArtistId = model.Artist.Id;
-                this.ArtistName = model.Artist.Name;
-            }
+            //if (model.Genre != null)
+            //{
+            //    this.GenreId = model.Genre.Id;
+            //    this.GenreName = model.Genre.Name;
+            //}
+            //if (model.AlbumType != null)
+            //{
+            //    this.AlbumTypeId = model.AlbumType.Id;
+            //    this.AlbumTypeName = model.AlbumType.Name;
+            //}
+            //if (model.Artist != null)
+            //{
+            //    this.ArtistId = model.Artist.Id;
+            //    this.ArtistName = model.Artist.Name;
+            //}
         }
 
     }
