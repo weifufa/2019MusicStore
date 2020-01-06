@@ -55,6 +55,42 @@ namespace MVCMusicStore2019.Controllers
         }
 
         /// <summary>
+        /// 搜索功能实现及页面跳转
+        /// </summary>
+        /// <param name="keyword"></param>
+        /// <returns></returns>
+        [HttpPost]
+        public ActionResult Index(string keyword)
+        {
+            var count = 0;
+            var albumList = _Service.GetAll()
+                .Where(x => x.Name.Contains(keyword) || x.Genre.Name.Contains(keyword)
+                || x.Artist.Name.Contains(keyword) || x.AlbumType.Name.Contains(keyword))
+                .ToList();
+            List<AlbumDisplayViewModel> albumListVM = new List<AlbumDisplayViewModel>();
+            foreach(var item in albumList)
+            {
+                var album = new AlbumDisplayViewModel()
+                {
+                    Id = item.Id,
+                    Name = item.Name,
+                    Price = item.Price,
+                    UrlString = item.UrlString,
+                    GenreId = item.GenreId,
+                    ArtistId = item.ArtistId,
+                    AlbumTypeId = item.AlbumTypeId,
+                    Description=item.Description,
+                    GenreName = item.Genre.Name,
+                    ArtistName = item.Artist.Name,
+                    AlbumTypeName = item.AlbumType.Name,
+                };
+                album.OrderNumber = (++count).ToString();
+                albumListVM.Add(album);
+            }
+            return View(albumListVM);
+        }
+
+        /// <summary>
         /// 获取Album表中的Id，Name
         /// </summary>
         /// <returns></returns>
@@ -110,5 +146,7 @@ namespace MVCMusicStore2019.Controllers
             }
             return Json(result,JsonRequestBehavior.AllowGet);
         }
+
+      
     }
 }

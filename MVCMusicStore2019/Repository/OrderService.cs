@@ -13,10 +13,12 @@ namespace MVCMusicStore2019.Repository
         private readonly IShoppingCartService _cartService;
         private readonly IEntityRepository<Album> _Service;
         //public MusicDbContext _context { get; set; }
-        //public OrderService(MusicDbContext context)
-        //{
-        //    this._context = context;
-        //}
+        public OrderService(ShoppingCartService cartService,EntityRepository<Album> Service)
+        {
+            _cartService = cartService;
+            _Service = Service;
+
+        }
         public bool Delete(Guid id)
         {
             var dbSet = db.Set(typeof(Order));//获取Order数据集

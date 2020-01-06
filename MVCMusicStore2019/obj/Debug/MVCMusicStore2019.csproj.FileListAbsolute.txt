@@ -1503,3 +1503,7 @@ E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicSto
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\20191221\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.pdb
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\obj\Debug\MVCMusicStore2019.csprojResolveAssemblyReference.cache
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WxPayAPI.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\ThoughtWorks.QRCode.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\LitJson.dll
+E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WxPayAPI.pdb

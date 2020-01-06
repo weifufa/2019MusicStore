@@ -156,14 +156,3 @@ function singleFileSelected(evt) {
         reader.readAsDataURL(selectedFile);
     }
 }
-
-//function print() {
-//    GenreID = document.getElementById("CurrentGenreSelectedId").value;
-//    ArtistID = document.getElementById("CurrentArtistSelectedId").value;
-//    AlbumTypeID = document.getElementById("CurrentAlbumTypeSelectedId").value;
-
-
-//}
-//var GenreID;
-//var ArtistID;
-//var AlbumTypeID;

@@ -109,18 +109,19 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                     Id = model.Id,
                     Name = model.Name,
                     Description = model.Description,
-                    GenreId=model.GenreId,
-                    ArtistId=model.ArtistId,
-                    AlbumTypeId=model.AlbumTypeId,
-                    Price=model.Price,
+                    GenreId = model.GenreId,
+                    ArtistId = model.ArtistId,
+                    AlbumTypeId = model.AlbumTypeId,
+                    Price =model.Price,
                     IssueUser=model.IssueUser,
                     LanguageClassification=model.LanguageClassification,
                     IssueTime = model.IssueTime,
                     UrlString =model.UrlString,                 
                 };
+
                 //var minDate = DateTime.Parse("1900-1-1");
                 //var maxDate = DateTime.Now;
-                //if(model.IssueTime<minDate||model.IssueTime>maxDate)
+                //if (model.IssueTime < minDate || model.IssueTime > maxDate)
                 //{
                 //    model.IssueTime = maxDate;
                 //}
@@ -128,7 +129,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                 //{
                 //    model.IssueTime = minDate;
                 //}
-                if(model.GenreId!=Guid.Empty)
+                if (model.GenreId!=Guid.Empty)
                 {
                     entity.Genre = _Service.GetSingleRelevance<Genre>(model.GenreId);
                     entity.GenreId = model.GenreId;
@@ -168,7 +169,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                 if (_Service.Delete(id))
                 {
                     ViewBag.Message = "删除成功！";
-
+     
                 }
                 else
                 {

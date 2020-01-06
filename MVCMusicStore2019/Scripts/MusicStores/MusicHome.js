@@ -1,8 +1,49 @@
-﻿$(document).ready(
+﻿//$(document).ready(
+//    function Preloading() {
+//        getPicUrlString();//加载动态轮播图方法
+//        getAlbums();
+//        $('#SearchBTN').bind("click", function () {
+//            var str=$('#searchString').val();
+//            alert(str);//测试有否获得用户输入
+//            $.ajax({
+//                type: 'POST',
+//                url: '/MusicIndex/Index?keyword=' + str,
+//                datatype: 'json',
+//                success: function (evt) {
+//                    var obj = window.open("about:blank");
+//                    obj.document.write(evt);
+//                }
+//            })
+//        })
+//    });
+$(document).ready(
     function Preloading() {
         getPicUrlString();//加载动态轮播图方法
         getAlbums();
+        $(':input').bind("keyup", function (event) {
+            if(event.keyCode==13)
+            {
+                SearchString();
+            }
+        })
+        $('#SearchBTN').bind("click", function () {
+            SearchString();
+        })
     });
+
+
+function SearchString() {
+    var str = $('#searchString').val();
+    $.ajax({
+        type: 'POST',
+        url: '/MusicIndex/Index?keyword=' + str,
+        datatype: 'json',
+        success: function (evt) {
+            var obj = window.open("about:blank");
+            obj.document.write(evt);
+        }
+    })
+}
 
 //轮播图片读库实现
 function getPicUrlString() {

@@ -1,9 +1,11 @@
 ﻿@using MVCMusicStore2019.ViewModels.MusicStores
 @model IEnumerable<AlbumDisplayViewModel>
 <h2>专辑管理</h2>
+
 <div class="panel panel-primary">
     <div class="panel-heading">
         系统用户列表
+        @ViewBag.Message
     </div>
     <table class="table table-condensed table-striped">
         <tr>
@@ -55,8 +57,9 @@
                             @Html.ActionLink("编辑", "CreatOrEdit", new { id = item.Id },
              new { @class = "btn btn-primary btn-xs" }
              )
-                            @Html.ActionLink("删除", "Delete", new { id = item.Id },
-             new { @class = "btn btn-danger btn-xs" }
+                            @Html.ActionLink("删除", "Delete",new { id = item.Id },
+            new { onclick = "return confirm('删除成功!')" }
+             //new { @class = "btn btn-danger btn-xs" }
              )
                         </td>
                     </tr>
