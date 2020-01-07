@@ -1507,3 +1507,7 @@ E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019Musi
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\ThoughtWorks.QRCode.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\LitJson.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WxPayAPI.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WxPayAPI.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\ThoughtWorks.QRCode.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\LitJson.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\MVCMusicStore2019\bin\WxPayAPI.pdb

@@ -132,6 +132,15 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             string scriptString = "<script>alert('" + result + "');window.location.href='/Order/Index';</script>";
             return Content(scriptString);
         }
+
+        ///订单详情
+        
+        public ActionResult details(Guid id)
+        {
+            //var entity = _albumService.GetAll().Single(x => x.Id == id);  //根据传入形参ID值查询Album表获取一条数据
+            //AlbumDisplayViewModel vm = new AlbumDisplayViewModel(entity);
+            //return View(vm);
+        }
     }
 
 

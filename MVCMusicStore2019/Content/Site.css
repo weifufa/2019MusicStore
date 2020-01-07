@@ -34,6 +34,6 @@ textarea {
 #myWeather{
     position:absolute;
     top:50px;
-    right:30px;
+    left:20px;
     z-index:3;
 }

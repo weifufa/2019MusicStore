@@ -30,7 +30,14 @@
                 <td>@item.OrderTime</td>
                 <td>@item.Quantity</td>
                 <td>@item.Price</td>
+          
+             
                 <td>
+                    @Html.ActionLink("详情", "details", new { id = item.Id },
+             new { @class = "btn btn-success btn-xs" }
+             )
+
+
                     @Html.ActionLink("删除", "Delete", new { id = item.Id },
              new { @class = "btn btn-danger btn-xs", onclick = "return confirm('是否确认删除？')" }
              )
