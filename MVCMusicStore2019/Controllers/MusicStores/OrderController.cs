@@ -3,7 +3,7 @@ using MVCMusicStore2019.Models.MusicStores;
 using MVCMusicStore2019.Repository;
 using MVCMusicStore2019.ViewModels.MusicStores;
 using System;
-using System.Collections.Generic;
+//using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -69,6 +69,10 @@ namespace MVCMusicStore2019.Controllers.MusicStores
         /// <returns></returns>
         public ActionResult Buy(Guid id,decimal price)
         {
+            if(String.IsNullOrEmpty(_cartService.GetUserId()))
+            {
+                return RedirectToAction("Login", "Account");
+            }
             var userId = Guid.Parse(_cartService.GetUserId());
             var userName = System.Web.HttpContext.Current.User.Identity.Name;
             var album = _albumService.GetAll().SingleOrDefault(x => x.Id == id);
@@ -93,7 +97,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
         public ActionResult Index()
         {
             var list = _Service.GetOrderList().OrderByDescending(x => x.OrderTime);
-            var vmList = new List<OrderViewModel>();
+            var vmList = new System.Collections.Generic.List<OrderViewModel>();
             var count = 0;
             foreach (var item in list)
             {

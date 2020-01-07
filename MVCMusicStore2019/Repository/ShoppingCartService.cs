@@ -16,9 +16,15 @@ namespace MVCMusicStore2019.Repository
         }
         public string GetUserId()
         {
+            try {
             var userName = HttpContext.Current.User.Identity.Name; //取当前用户登录的用户名
             var userId = _context.Users.SingleOrDefault(x => x.UserName == userName).Id;//根据用户名获取用户ID
             return userId;
+            }
+            catch
+            {
+                return "";
+            }
         }
         public ShoppingCart GetCart()
         {

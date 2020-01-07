@@ -1,5 +1,47 @@
 ﻿@using MVCMusicStore2019.ViewModels.MusicStores
-@model OrderViewModel
-<div class="panel-heading">
-   订单管理
-</div>
+@model  IEnumerable<OrderViewModel>
+@*@using MVCMusicStore2019.Models.MusicStores*@
+        <h3>订单管理</h3>
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            订单列表
+            @*@ViewBag.Message*@
+        </div>
+        <table class="table table-striped">
+            <tr>
+
+                <th>序号</th>
+                <th>交易时间</th>
+                <th>商品数量</th>
+                <th>交易金额</th>
+            </tr>
+@*@using (Ajax.BeginForm("Index", new AjaxOptions()))
+{*@
+    @if (Model.Count()==0)
+    {
+                    <tr><td colspan="6" class="text-center">当前暂无订单</td></tr>
+            }
+            else
+            {
+                foreach (OrderViewModel item in Model)
+                {
+            <tr>
+                <td>@item.OrderNumber</td>
+                <td>@item.OrderTime</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>
+                    @Html.ActionLink("删除", "Delete", new { id = item.Id },
+             new { @class = "btn btn-danger btn-xs", onclick = "return confirm('是否确认删除？')" }
+             )
+                </td>
+</tr>
+                }
+            }
+        </table>
+    </div>
+    <div class="text-right">
+        <img src="@Url.Content("/images/continueshopping.jpg")" alt="" />
+        @Html.RouteLink("继续购物", "MusicIndex")
+    </div>
+

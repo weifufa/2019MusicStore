@@ -77,7 +77,15 @@
     @Html.ValidationSummary()<div style="clear:both"></div>
 </div>
 <div class="text-right">
-    <input class="btn-danger cardEndLine" id="EmpryCart" type="submit" value="清空购物车" />
+    @if (this.Model.Items.Count() == 0 || this.Model.Items == null)
+    {
+        <input type="hidden" class="btn-danger cardEndLine" id="EmpryCart" value="清空购物车" />
+    }
+    else
+    {
+        <input class="btn-danger cardEndLine" id="EmpryCart" type="submit" value="清空购物车" />
+    }
+
     <div class="cardEndLine">
         <img src="@Url.Content("/images/continueshopping.jpg")" alt="" />
         @Html.RouteLink("继续购物", "MusicIndex")

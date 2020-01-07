@@ -18,6 +18,30 @@ namespace MVCMusicStore2019.Repository
             //T bo = new T();
             _context = context;
         }
+
+        public bool GetUserRole()
+        {
+            var result = false;
+            var userName = HttpContext.Current.User.Identity.Name;
+            var adminRole = _context.Roles.SingleOrDefault(x => x.Name == "Administrators");
+            var systemRole = _context.Roles.SingleOrDefault(x => x.Name == "SystemManagers");
+            var user = _context.Users.SingleOrDefault(x => x.UserName == userName);
+            if(user!=null)
+            {
+                var manager = user.Roles
+                    .Where(x => x.RoleId == adminRole.Id || x.RoleId == systemRole.Id);
+                if(manager.Count()!=0)
+                {
+                    result = true;
+                }
+                else
+                {
+                    result = false;
+                }
+            
+            }
+            return result;
+        }
         public virtual IQueryable<T> GetAll()
         {
             return _context.Set<T>();

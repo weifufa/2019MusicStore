@@ -24,17 +24,22 @@
                     <li>@Html.ActionLink("主页", "Index", "Home")</li>
                     <li>@Html.ActionLink("关于", "About", "Home")</li>
                     <li>@Html.ActionLink("联系方式", "Contact", "Home")</li>
-                    <li class="dropdown">
+                    <li id="SystemManager" class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">系统管理 <span class="caret"></span></a>
-                        <ul class="dropdown-menu">                            
-                            <li>@Html.ActionLink("系统用户管理", "Index", "AdminUser") 
-                                @Html.ActionLink("专辑管理","Index","Album")
-                                @Html.ActionLink("音乐类型管理", "Index", "AlbumType")
-                                @Html.ActionLink("歌手管理", "Index", "Artist")
-                                @Html.ActionLink("流派管理", "Index", "Genre")
-                                @Html.ActionLink("专辑列表", "Index", "MusicIndex")
+                        <ul class="dropdown-menu">
+                            <li>
+
+                                @Html.ActionLink("专辑管理", "Index", "Album")
                             </li>
-                        </ul>
+                    <li> @Html.ActionLink("音乐类型管理", "Index", "AlbumType")</li>
+                    <li> @Html.ActionLink("歌手管理", "Index", "Artist")</li>
+                    <li> @Html.ActionLink("流派管理", "Index", "Genre")</li>
+                    <li>@Html.ActionLink("专辑列表", "Index", "MusicIndex")</li>
+                    <li role="separator" class="divider"></li>
+                    <li>   @Html.ActionLink("角色管理", "Index", "AdminRole")</li>
+                    <li> @Html.ActionLink("用户管理", "Index", "AdminUser")
+                    </li>
+                </ul>
                     </li>
                 </ul>
                 @Html.Partial("_LoginPartial")
@@ -70,5 +75,40 @@
     @Scripts.Render("~/bundles/bootstrap")
     @Scripts.Render("~/bundles/ajax")
     @RenderSection("scripts", required: false)
+
+    <script>
+        window.onscroll = function () { scrollFunction() };
+        function scrollFunction() {
+            console.log(121);
+            //当屏幕滚动>20px显示返回顶部按钮，反之隐藏
+            if(document.body.scrollTop>20||document.documentElement.scrollTop>20)
+            {
+                document.getElementById("goTop").style.display = "block";
+            }
+            else {
+                document.getElementById("goTop").style.display = "none";
+            }
+        }
+        //点击按钮，返回顶部
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+        $('#SystemManager').ready(function () {
+            //alert("进入用户权限JS");
+            $.ajax({
+                type: 'POST',
+                url: "/Home/UserRole",
+                success: function (data) {
+                    if (!data) {
+                        $('#SystemManager').hide();
+                    }
+                    else {
+                        $('#SystemManager').show();
+                    }
+                }
+            })
+        });
+    </script>
 </body>
 </html>

@@ -26,7 +26,7 @@ namespace MVCMusicStore2019.ViewModels.MusicStores
             if(model.OrderItems!=null)
             {
                 this.Quantity = model.OrderItems.Sum(x => x.Quantity);
-                this.Price = model.OrderItems.Sum(x => x.Album.Price);
+                this.Price = model.OrderItems.Sum(x => x.Price);
             }
         }
     }

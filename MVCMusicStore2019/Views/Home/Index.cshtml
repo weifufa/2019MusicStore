@@ -35,6 +35,21 @@
     <p>MVC Music Store项目后端技术设计MVC模式开发、特性路由、过滤器、数据注解和验证、安全机制、ASP.NET Web API、IoC&DI、单元测试等技术。</p>
     <p class="text-right"><a class="btn btn-primary btn-lg" href="http://www.lzzy.net" target="_blank" role="button">访问柳职</a></p>
 </div>
+@*商品特惠*@
+
+<div id="PROMOTIONS">
+    @Ajax.ActionLink("戳此查看今日特惠商品",
+    "Promotions",
+    null,
+    new AjaxOptions
+    {
+        UpdateTargetId= "PROMOTIONS",
+        InsertionMode=InsertionMode.Replace,
+        HttpMethod="GET"
+    },
+    new {@class="btn btn-defalut btn-block"}
+    )
+</div>
 
    <!-- 轮播图 -->
 <h1 class="text-center">轮播图读库实现</h1>

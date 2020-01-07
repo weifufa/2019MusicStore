@@ -8,6 +8,7 @@ namespace MVCMusicStore2019.Repository
 {
     public interface IEntityRepository<T> where T:class,new()
     {
+        bool GetUserRole();
         IQueryable<T> GetAll();
         void Create(T entity);
         void AddAndSave(T entity);

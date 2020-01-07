@@ -92,18 +92,20 @@ namespace MVCMusicStore2019.Controllers.MusicStores
         }
         public ActionResult Delete(Guid id)
         {
+            string result = "";
             if (id != null)
             {
                 if (_Service.Delete(id))
                 {
-                    ViewBag.Message = "删除成功！";
+                    result = "删除成功！";
 
                 }
                 else
                 {
-                    ViewBag.Message = "删除失败";
+                    result = "删除失败";
                 }
-                return RedirectToAction("Index");
+                string scriptString = "<script>alert('" + result + "');window.location.href='/Artist/Index';</script>";
+                return Content(scriptString);
             }
             else
             {
