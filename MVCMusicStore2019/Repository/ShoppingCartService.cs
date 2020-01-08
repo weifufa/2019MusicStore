@@ -9,6 +9,7 @@ namespace MVCMusicStore2019.Repository
 {
     public class ShoppingCartService:IShoppingCartService
     {
+        MusicDbContext db = new MusicDbContext();
         public MusicDbContext _context { get; private set; }
         public ShoppingCartService(MusicDbContext context)
         {
@@ -150,6 +151,28 @@ namespace MVCMusicStore2019.Repository
                 }
             }
             return returnStatus;
+        }
+
+        public bool  EmpryCart()
+        {
+            ShoppingCart cart = GetCart();
+            List<ShoppingCartItem> cartItem = GetItems(cart.Id);
+            foreach (var i in cartItem)
+            {
+                db.ShoppingCartItems.Attach(i);
+              
+            }
+            try
+            {
+                db.ShoppingCartItems.RemoveRange(cartItem);
+                db.SaveChanges();
+                return true;
+            }
+            catch (Exception)
+            {
+
+                return false;
+            }
         }
     }
 }
