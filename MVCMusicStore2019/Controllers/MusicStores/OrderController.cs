@@ -3,6 +3,7 @@ using MVCMusicStore2019.Models.MusicStores;
 using MVCMusicStore2019.Repository;
 using MVCMusicStore2019.ViewModels.MusicStores;
 using System;
+using System.Collections.Generic;
 //using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -52,9 +53,8 @@ namespace MVCMusicStore2019.Controllers.MusicStores
             db.SaveChanges();
 
 
-            _cartService.GetCart();//待确认是不是用此方法
-
-
+            //_cartService.GetCart();//待确认是不是用此方法
+            _cartService.EmpryCart();
 
             ViewBag.ResultString = "订单已成功生成";
             return Redirect("Index");
@@ -134,13 +134,17 @@ namespace MVCMusicStore2019.Controllers.MusicStores
         }
 
         ///订单详情
-        
-        public ActionResult details(Guid id)
-        {
-            //var entity = _albumService.GetAll().Single(x => x.Id == id);  //根据传入形参ID值查询Album表获取一条数据
-            //AlbumDisplayViewModel vm = new AlbumDisplayViewModel(entity);
-            //return View(vm);
-        }
+
+        //public ActionResult details(Guid id)
+        //{
+        //    var list = _Service.GetOrderList().Where(x => x.Id == id).FirstOrDefault();
+        //    var vmList = new List<OrderItemViewModel>();
+        //    foreach(var item in list.OrderItems)
+        //    {
+        //        OrderItemViewModel bo = new OrderItemViewModel(item);
+        //        vmList.Add(bo);
+        //    }
+        //}
     }
 
 

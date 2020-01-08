@@ -45,6 +45,13 @@ namespace MVCMusicStore2019
           );
 
             routes.MapRoute(
+             name: "Buy",
+             url: "Order/Buy",
+             defaults: new { controller = "Order", action = "Buy" },
+                 constraints: new { httpMethod = new HttpMethodConstraint("POST") }
+         );
+
+            routes.MapRoute(
              name: "GetAlbumUrl",
              url: "ShoppingCart/GetAlbumUrl",
              defaults: new { controller = "ShoppingCart", action = "GetAlbumUrl" },

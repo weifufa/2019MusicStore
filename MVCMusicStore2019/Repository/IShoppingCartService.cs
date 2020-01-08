@@ -17,6 +17,6 @@ namespace MVCMusicStore2019.Repository
         bool Delete(Guid id);//根据ID删除一条记录
         string GetUserId();//根据用户查找ID 
         List<ShoppingCartItem> GetItems(string catrId);
-
+        bool EmpryCart();
     }
 }
