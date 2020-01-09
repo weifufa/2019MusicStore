@@ -75,7 +75,7 @@
                       <td>@using (Html.BeginForm("TryListening", "MusicAlbum",
           new { id = item.Id }))
                       {
-                          @Html.RouteLink("￥","Buy",new { id=item.Id,price=item.Price},
+                          @Html.ActionLink("￥","Buy","Order",new { id=item.Id,price=item.Price},
                          new { @class="btn btn-danger btn-xs",@title="购买"})
                         @Html.ActionLink(" ", "AddToCart","ShoppingCart", new { id = item.Id, price = item.Price,item.Name },
                          new { @class = "btn btn-primary btn-xs glyphicon glyphicon glyphicon-shopping-cart", @title = "加入购物车" })

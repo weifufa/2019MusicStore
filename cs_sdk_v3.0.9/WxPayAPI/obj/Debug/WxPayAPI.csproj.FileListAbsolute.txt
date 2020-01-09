@@ -22,3 +22,11 @@ E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019Musi
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.csprojResolveAssemblyReference.cache
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.dll
 E:\韦富发(大佬手下留情，勿删)\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\bin\WxPayAPI.dll.config
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\bin\WxPayAPI.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\bin\WxPayAPI.pdb
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\bin\LitJson.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\bin\ThoughtWorks.QRCode.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.csprojResolveAssemblyReference.cache
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.dll
+E:\2019年上学期\ASP.NET MVC5\2019MusicStore\cs_sdk_v3.0.9\WxPayAPI\obj\Debug\WxPayAPI.pdb

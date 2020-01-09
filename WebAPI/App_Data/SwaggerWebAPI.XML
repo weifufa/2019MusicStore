@@ -4,11 +4,12 @@
         <name>WebAPI</name>
     </assembly>
     <members>
-        <member name="M:WebAPI.Controllers.UserController.GetUser">
+        <member name="M:WebAPI.Controllers.UserController.GetUser(System.String)">
             <summary>
             实现根据传入的UserId，获取他的角色组，用户名，Email,Phone
             </summary>
             <returns></returns>
+            
         </member>
     </members>
 </doc>
