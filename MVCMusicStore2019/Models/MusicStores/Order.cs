@@ -16,6 +16,7 @@ namespace MVCMusicStore2019.Models.MusicStores
         public decimal Price { get; set; }
         public virtual Order Order { get; set; }//对应订单
         public virtual Album Album { get; set; }
+     
         //是否需要专辑的外键
         public OrderItem()
         {
@@ -66,7 +67,6 @@ namespace MVCMusicStore2019.Models.MusicStores
             this.UserId = order.UserId;
             this.OrderTime = order.OrderTime;
             this.OrderStatus = order.OrderStatus;
-
         }
     }
 }

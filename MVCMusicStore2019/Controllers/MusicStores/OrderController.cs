@@ -43,7 +43,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
                     Id = Guid.NewGuid(),
                     AlbumId = item.AlbumId,
                     Quantity = item.Quantity,
-                    Price = item.Price
+                    Price = item.Price*item.Quantity
                 };
                 bo.Album = db.Albums.SingleOrDefault(x => x.Id == item.AlbumId);
                 order.OrderItems.Add(bo);
@@ -135,16 +135,19 @@ namespace MVCMusicStore2019.Controllers.MusicStores
 
         ///订单详情
 
-        //public ActionResult details(Guid id)
-        //{
-        //    var list = _Service.GetOrderList().Where(x => x.Id == id).FirstOrDefault();
-        //    var vmList = new List<OrderItemViewModel>();
-        //    foreach(var item in list.OrderItems)
-        //    {
-        //        OrderItemViewModel bo = new OrderItemViewModel(item);
-        //        vmList.Add(bo);
-        //    }
-        //}
+        public ActionResult details(Guid id)
+        {
+            var list = _Service.GetOrderList().Where(x => x.Id == id).FirstOrDefault();
+            var vmList = new List<OrderItemViewModel>();
+            foreach (var item in list.OrderItems)
+            {
+                OrderItemViewModel bo = new OrderItemViewModel(item)
+                {
+            };
+                vmList.Add(bo);
+            }
+            return View(vmList);
+        }
     }
 
 
