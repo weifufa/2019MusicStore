@@ -1,0 +1,32 @@
+﻿@using _2019MusicStore.Models.MusicStore;
+@model IEnumerable<Genre>
+@{ 
+  ViewBag.Title = "音乐流行派列表页面";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        音乐流行派管理列表
+    </div>
+    <table class="table table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model=>model.GenreName)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th></th>
+        </tr>
+        @using (Ajax.BeginForm("index", new AjaxOptions()))
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    @Html.HiddenFor(modelItem=>item.GenreID)
+                    <td>@Html.DisplayFor(model => item.GenreName)</td>
+                    <td>@Html.DisplayFor(model => item.Description)</td>                   
+                </tr>
+            }
+        }
+    </table>
+</div>
+@Html.ActionLink("新建","Create",null,new { @class="btn btn-primary"})
+@Html.ActionLink("Create","CreateOrEdit",null,new { @class="btn btn-primary"})
+@Html.ActionLink("取消", "Index","Home", null, new { @class = "btn btn-default" })

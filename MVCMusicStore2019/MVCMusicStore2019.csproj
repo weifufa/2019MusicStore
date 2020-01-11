@@ -274,6 +274,7 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\demo.css" />
     <Content Include="Content\icons\jinghui.png" />
     <Content Include="Content\icons\zaixianjubao.png" />
     <Content Include="Content\jQuery.FileUpload\css\jquery.fileupload-noscript.css" />
@@ -349,6 +350,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\MusicStore.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -373,6 +375,8 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\MusicStores\Album.js" />
+    <Content Include="Scripts\MusicStores\anime.min.js" />
+    <Content Include="Scripts\MusicStores\main.js" />
     <Content Include="Scripts\MusicStores\MusicHome.js" />
     <Content Include="Scripts\MusicStores\ShoppingCart.js" />
     <Content Include="Scripts\respond.js" />

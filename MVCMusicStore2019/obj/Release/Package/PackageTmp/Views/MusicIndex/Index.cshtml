@@ -1,0 +1,97 @@
+﻿@using MVCMusicStore2019.ViewModels.MusicStores
+@model IEnumerable<AlbumDisplayViewModel>
+<h2>专辑列表：</h2>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        系统用户列表
+    </div>
+    <table class="table table-condensed table-striped">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.OrderNumber)</th>
+            <th>@Html.DisplayNameFor(model => model.UrlString)</th>
+            <th>@Html.DisplayNameFor(model => model.Name)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            @*<th>@Html.DisplayNameFor(model => model.IssueTime)</th>*@
+            @*<th>@Html.DisplayNameFor(model => model.IssueUser)</th>*@
+            @*<th>@Html.DisplayNameFor(model => model.LanguageClassification)</th>*@
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>@Html.DisplayNameFor(model => model.GenreName)</th>
+            <th>@Html.DisplayNameFor(model => model.AlbumTypeName)</th>
+            <th>@Html.DisplayNameFor(model => model.ArtistName)</th>
+
+        </tr>
+        @using (Ajax.BeginForm("Index", new AjaxOptions()))
+        {
+            if (Model.Count() == 0)
+            {
+                <tr>
+                    <td colspan="10" style="text-align:center;">当前列表无数据</td>
+                </tr>
+            }
+            else
+            {
+
+                foreach (var item in Model)
+                {
+                    <tr>
+                        @Html.HiddenFor(Item => item.Id)
+                        <td>@item.OrderNumber</td>
+                       <td><img src="@Url.Content("/Models/Pics/"+item.UrlString)" class="poster" alt="@item.Name" style="width:65px"/></td>
+                        @*<td><img src="@Url.Content("/Models/Pics/"+item.UrlString)"/>@item.UrlString</td>*@
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        @*<td>@item.IssueTime</td>
+                            <td>@item.IssueUser</td>*@
+                        @*<td>@item.LanguageClassification</td>*@
+                        <td>@item.Price</td>
+                        <td>@item.GenreName</td>
+                        <td>@item.AlbumTypeName</td>
+                        <td>@item.ArtistName</td>
+                        <td>
+                            @{
+                                var ajaxOptions = new AjaxOptions()
+                                {
+                                    HttpMethod = "post",
+                                    UpdateTargetId = "renderBody",
+                                    InsertionMode = InsertionMode.Replace,
+                                    LoadingElementId = "loding",
+                                    LoadingElementDuration = 2000
+                                };
+                            }
+                            @*@Ajax.ActionLink("点赞", "AddCTR", "MusicAlbum", new { id = item.Id },ajaxOptions,
+                           new { @class = "btn btn-warning btn-xs glyphicon glyphicon-thumbs-up", })*@
+
+
+                            @Ajax.ActionLink("点赞", "AddCTR", "MusicIndex", new { id = item.Id },
+                           new AjaxOptions() { OnComplete = "return AddCTR()" }, new { @class = "btn btn-warning btn-xs glyphicon glyphicon-thumbs-up" })
+             
+                        
+                        </td>
+                            @*<button class="btn btn-warning btn-xs glyphicon glyphicon-thumbs-up"></button>
+                            <button class="btn btn-danger btn-xs glyphicon glyphicon glyphicon-usd"></button>
+                            <button class="btn btn-primary btn-xs glyphicon glyphicon glyphicon-shopping-cart"></button>
+                            <button class="btn btn-success btn-xs glyphicon glyphicon glyphicon-headphones"></button>*@
+                            
+                      <td>@using (Html.BeginForm("TryListening", "MusicAlbum",
+          new { id = item.Id }))
+                      {
+                          @Html.ActionLink("￥","Buy","Order",new { id=item.Id,price=item.Price},
+                         new { @class="btn btn-danger btn-xs",@title="购买"})
+                        @Html.ActionLink(" ", "AddToCart","ShoppingCart", new { id = item.Id, price = item.Price,item.Name },
+                         new { @class = "btn btn-primary btn-xs glyphicon glyphicon glyphicon-shopping-cart", @title = "加入购物车" })
+
+                          <button class="btn btn-success btn-xs" type="submit">
+                              <span class="glyphicon glyphicon glyphicon-headphones" title="试听"></span>
+                          </button>
+                      }</td>
+                    </tr>
+                }
+            }
+        }
+    </table>
+    @*@Html.ActionLink("新增", "CreatOrEdit", null, new { @class = "btn btn-primary" })
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })*@
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+<script src="~/Scripts/MusicStores/MusicHome.js"></script>

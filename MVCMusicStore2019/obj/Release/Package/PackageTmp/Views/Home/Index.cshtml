@@ -1,0 +1,170 @@
+﻿@{
+    ViewBag.Title = "音乐商店";
+}
+
+@*===========巨幕效果：将类名设置称为jumbotron============*@
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 pull-right">
+            <div class="input-group pull-right">
+                <input id="searchString" type="text" class="form-control pull-right" placeholder="请在此输入搜索关键词....">
+                <span class="input-group-btn">
+                    <button id="SearchBTN" class="btn btn-default pull-right" type="button">搜索</button>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+@*<div class="row">
+    <div class="col-lg-12">
+        <div class="input-group">
+            <input type="text" class="form-control pull-right" placeholder="Search for...">
+            <span class="input-group-btn">
+            <button id="SearchBTN"class="btn btn-default pull-right" type="button">搜索</button>
+            </span>
+        </div>
+    </div>
+</div>*@
+
+@*商品特惠*@
+
+<div id="PROMOTIONS">
+    @Ajax.ActionLink("戳此查看今日特惠商品",
+    "Promotions",
+    null,
+    new AjaxOptions
+    {
+        UpdateTargetId= "PROMOTIONS",
+        InsertionMode=InsertionMode.Replace,
+        HttpMethod="GET"
+    },
+    new {@class="btn btn-defalut btn-block"}
+    )
+</div>
+
+   <!-- 轮播图 -->
+@*<h1 class="text-center">轮播图读库实现</h1>*@
+<div id="carousel-index2" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-index2" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-index2" data-slide-to="1"></li>
+        <li data-target="#carousel-index2" data-slide-to="2"></li>
+        <li data-target="#carousel-index2" data-slide-to="3"></li>
+        <li data-target="#carousel-index2" data-slide-to="4"></li>
+    </ol>
+    <div id="carousel"class="carousel-inner" role="listbox">
+      @*从JSON生成HTML*@
+    </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-index2" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">前页</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-index2" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">后页</span>
+    </a>
+</div>
+
+
+@*<h1 class="text-center">轮播图列表实现</h1>*@
+<div id="container2">
+    <div id="Carousel-index3" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-index3" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-index3" data-slide-to="1"></li>
+            <li data-target="#carousel-index3" data-slide-to="2"></li>
+        </ol>
+        <div id="carousel-list"></div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#Carousel-index3" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">前页</span>
+        </a>
+        <a class="right carousel-control" href="#Carousel-index3" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">后页</span>
+        </a>
+    </div>
+</div>
+@* ================ 商品列表缩略图实现 ================== *@
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <div>
+            <h2>最新专辑</h2>
+            <a href="/MusicIndex/Index"><h4 class="text-right">更多</h4></a>
+        </div>
+    </div>
+    @*pc端4张缩略图，平板/手机6张*@
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-18-11-45-01-0219.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-19-12-12-52-4178.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-18-11-47-56-0987.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-18-11-55-05-3382.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-18-11-57-24-1740.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="thumbnail">
+            <img src="~/Models/Pics/Album_2019-12-18-11-59-40-3788.jpg" alt="" class="img-responsive" />
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron">
+    <h1>MVC Music Store项目简介</h1>
+    <p class="lead">MVC Music Store是一个音乐专辑购物网站项目。</p>
+    <p>MVC Music Store项目采用了Bootstrap前端开发框架进行用户UI端实现，包含用户管理、商品管理、订单管理等功能实现，涉及使用前端知识有Bootstrap、Ajax、jQuery、AngularJS等前端技术。</p>
+    <p>MVC Music Store项目后端技术设计MVC模式开发、特性路由、过滤器、数据注解和验证、安全机制、ASP.NET Web API、IoC&DI、单元测试等技术。</p>
+    <p class="text-right"><a class="btn btn-primary btn-lg" href="http://www.lzzy.net" target="_blank" role="button">访问柳职</a></p>
+</div>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+@Html.ActionLink("注销", "Logout", "Account", null, new { @class = "btn btn-primary" })
+
+@Scripts.Render("~/bundles/jquery")
+<script src="~/Scripts/MusicStores/MusicHome.js"></script>
+<script src="~/Scripts/MusicStores/canvas-nest.js"></script>

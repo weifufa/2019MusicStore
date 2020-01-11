@@ -3,7 +3,7 @@
     ViewBag.Title = "音乐专辑：" + Model.Name;
 }
 <h2>@ViewBag.Title</h2>
-<div class="albumDetail">
+@*<div class="albumDetail">
     <div><img src="/Models/Pics/@Url.Content(Model.UrlString)" class="poster" alt="@Model.Name"/></div> 
     <div>@Html.LabelFor(x=>x.ArtistName):@Model.ArtistName</div>
     <div>@Html.LabelFor(x => x.GenreName):@Model.GenreName</div>
@@ -13,4 +13,85 @@
     <div>@Html.LabelFor(x => x.LanguageClassification):@Model.LanguageClassification</div>
     <div>@Html.LabelFor(x => x.Price):@Model.Price</div>
     
-</div>
+</div>*@
+
+<section class="content">
+    <div class="grid grid--effect-vega">
+        <a href="#" class="grid__item grid__item--c1">
+            <div class="stack">
+                <div class="stack__deco"></div>
+                <div class="stack__deco"></div>
+                <div class="stack__deco"></div>
+                <div class="stack__deco"></div>
+                <div class="stack__figure">
+                    <img class="stack__img" src="/Models/Pics/@Url.Content(Model.UrlString)" alt="@Model.Name" style="width:600px" />
+                </div>
+            </div>
+            @*<div class="grid__item-caption">
+                    <div class="grid__item-title">@Html.LabelFor(x => x.Name):@Model.Name</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.GenreName):@Model.GenreName</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.Issuer):@Model.Issuer</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.IssueDate):@Model.IssueDate</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.LanguageClassifiication):@Model.LanguageClassifiication</div>
+                    <div class="grid__item-title">@Html.LabelFor(x => x.Price):@Model.Price</div>
+                </div>*@
+
+            <div class="grid__item-caption">
+                <h3 class="grid__item-title">@Html.LabelFor(x => x.Name):@Model.Name</h3>
+                <div class="column column--left">
+                    <span class="column__text">@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</span>
+                    <span class="column__text">@Html.LabelFor(x => x.GenreName):@Model.GenreName</span>
+                    <span class="column__text">@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</span>
+                </div>
+                <div class="column column--right">
+                    <span class="column__text">@Html.LabelFor(x => x.IssueUser):@Model.IssueUser</span>
+                    <span class="column__text">@Html.LabelFor(x => x.IssueTime):@Model.IssueTime</span>
+                    <span class="column__text">@Html.LabelFor(x => x.LanguageClassification):@Model.LanguageClassification</span>
+                    <span class="column__text">@Html.LabelFor(x => x.Price):@Model.Price</span>
+
+                </div>
+            </div>
+
+        </a>
+        <span>@Html.ActionLink("直接购买>>", "Buy", "Order", new { id = Model.Id, price = Model.Price }, new { @class = "btn btn-danger" })</span>
+    </div>
+</section>
+<link href="~/Content/demo.css" rel="stylesheet" />
+<script src="~/Scripts/MusicStores/anime.min.js"></script>
+<script src="~/Scripts/MusicStores/main.js"></script>
+<script>
+		(function() {
+			[].slice.call(document.querySelectorAll('.grid--effect-vega > .grid__item')).forEach(function(stackEl) {
+				new VegaFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-castor > .grid__item')).forEach(function(stackEl) {
+				new CastorFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-hamal > .grid__item')).forEach(function(stackEl) {
+				new HamalFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-polaris > .grid__item')).forEach(function(stackEl) {
+				new PolarisFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-alphard > .grid__item')).forEach(function(stackEl) {
+				new AlphardFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-altair > .grid__item')).forEach(function(stackEl) {
+				new AltairFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-rigel > .grid__item')).forEach(function(stackEl) {
+				new RigelFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-canopus > .grid__item')).forEach(function(stackEl) {
+				new CanopusFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-pollux > .grid__item')).forEach(function(stackEl) {
+				new PolluxFx(stackEl);
+			});
+			[].slice.call(document.querySelectorAll('.grid--effect-deneb > .grid__item')).forEach(function(stackEl) {
+				new DenebFx(stackEl);
+			});
+		})();
+</script>

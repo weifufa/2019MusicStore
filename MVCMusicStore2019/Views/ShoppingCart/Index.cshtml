@@ -12,7 +12,6 @@
         @*<th><label><input class="check-all check" type="checkbox" />&nbsp;全选</label></th>*@
         <th>封面链接</th>
         <th>专辑</th>
-       
         <th>价格</th>
         <th>数量</th>
         <th>金额</th>
@@ -29,7 +28,7 @@
         {@Html.HiddenFor(modeItem=>item.Id)
             <tr>
                 <td>
-                    <img src="~/Models/Pics/@Html.Action("GetAlbumUrl", new { id=@item.AlbumId})" style="width:65px" />
+                    <img src="~/Pics/@Html.Action("GetAlbumUrl", new { id=@item.AlbumId})" style="width:65px" />
                     @*@Html.Action("GetAlbumUrl", new { id = @item.Id })*@
                 </td>
                 <td>

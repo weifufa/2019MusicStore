@@ -1,0 +1,18 @@
+﻿@model string
+@{
+    ViewBag.Title = "新建角色";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+@Html.ValidationSummary(false)
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Name</label>
+        <input name="name" value="@Model" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">新建</button>
+    @Html.ActionLink("取消", "Index", null, new { @class = "btn btn-default" })
+}

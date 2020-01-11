@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link type="text/css" rel="stylesheet" href="@Url.Action("Css")"/>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>主题样式实现案例</h2>
+    @using (Html.BeginForm())
+    {
+        string theme = ViewBag.Theme.ToString();
+        @Html.RadioButton("theme", "Default", theme == "Default");
+        <span>默认样式</span>
+        @Html.RadioButton("theme", "Theme1", theme == "Theme1");
+        <span>样式1</span>
+        @Html.RadioButton("theme", "Theme2", theme == "Theme2");
+        <span>样式2</span>
+        <input type="submit" value="提交"/>
+    }
+    <div> 
+    </div>
+</body>
+</html>

@@ -36,8 +36,8 @@
                     <tr>
                         @Html.HiddenFor(Item => item.Id)
                         <td>@item.OrderNumber</td>
-                       <td><img src="@Url.Content("/Models/Pics/"+item.UrlString)" class="poster" alt="@item.Name" style="width:65px"/></td>
-                        @*<td><img src="@Url.Content("/Models/Pics/"+item.UrlString)"/>@item.UrlString</td>*@
+                       <td><img src="@Url.Content("/Pics/"+item.UrlString)" class="poster" alt="@item.Name" style="width:65px"/></td>
+                        @*<td><img src="@Url.Content("/Pics/"+item.UrlString)"/>@item.UrlString</td>*@
                         <td>@item.Name</td>
                         <td>@item.Description</td>
                         @*<td>@item.IssueTime</td>

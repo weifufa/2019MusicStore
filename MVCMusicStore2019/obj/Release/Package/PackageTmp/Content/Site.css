@@ -1,0 +1,63 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/*轮播图片居中*/
+.carousel-inner img
+{
+    width:100%;
+}
+.cardEndLine{
+    display:inline-block;
+}
+#myWeather{
+    position:absolute;
+    top:50px;
+    left:20px;
+    z-index:3;
+}
+
+/*搜索圆框*/
+#SearchBTN{
+
+border: none;
+    /* 背景色渐变实现 */
+     background: rgb(0, 255, 34);
+    /*background: linear-gradient(to right, #ff9000 0, #ff5000 100%);*/
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    /* 设置搜索框圆弧半径 */
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;}
+
+#searchString
+{
+        border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border:2px solid rgb(0, 255, 34);
+}

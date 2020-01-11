@@ -1,0 +1,691 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\MusicStore</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/LitJson.dll">
+      <publishTime>05/19/2014 21:40:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/MVCMusicStore2019.dll">
+      <publishTime>01/11/2020 17:19:51</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>12/26/2019 08:24:07</publishTime>
+    </File>
+    <File Include="bin/ThoughtWorks.QRCode.dll">
+      <publishTime>10/12/2013 10:34:24</publishTime>
+    </File>
+    <File Include="bin/Unity.Abstractions.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Unity.Container.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Unity.Mvc.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/Web.Ajax.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>12/26/2019 08:24:08</publishTime>
+    </File>
+    <File Include="bin/WxPayAPI.dll">
+      <publishTime>01/11/2020 17:19:47</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.Core.resources.dll">
+      <publishTime>04/03/2015 17:09:32</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.EntityFramework.resources.dll">
+      <publishTime>04/03/2015 17:09:34</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.Owin.resources.dll">
+      <publishTime>04/03/2015 17:09:34</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Host.SystemWeb.resources.dll">
+      <publishTime>01/18/2019 12:59:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.resources.dll">
+      <publishTime>01/18/2019 12:59:58</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Facebook.resources.dll">
+      <publishTime>02/13/2015 13:23:48</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Google.resources.dll">
+      <publishTime>02/13/2015 13:23:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.MicrosoftAccount.resources.dll">
+      <publishTime>02/13/2015 13:23:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.resources.dll">
+      <publishTime>02/13/2015 13:23:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Owin.Security.Twitter.resources.dll">
+      <publishTime>02/13/2015 13:23:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>11/29/2018 13:29:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>11/29/2018 13:25:14</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Optimization.resources.dll">
+      <publishTime>02/11/2014 15:28:40</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>11/29/2018 13:25:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>11/29/2018 13:29:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>11/29/2018 13:29:50</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>11/29/2018 13:29:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/09/2020 08:08:49</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/demo.css">
+      <publishTime>01/02/2020 11:33:10</publishTime>
+    </File>
+    <File Include="Content/icons/jinghui.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/icons/zaixianjubao.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/css/jquery.fileupload-noscript.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/css/jquery.fileupload-ui-noscript.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/css/jquery.fileupload-ui.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/css/jquery.fileupload.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/img/loading.gif">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/jQuery.FileUpload/img/progressbar.gif">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/ShoppingCart.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>01/09/2020 08:08:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.menu.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.spinner.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tooltip.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.menu.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.spinner.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tooltip.min.css">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/09/2020 10:53:17</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.9.0.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.9.0.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/cors/jquery.postmessage-transport.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/cors/jquery.xdr-transport.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-audio.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-image.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-process.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-ui.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-validate.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload-video.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.fileupload.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.FileUpload/jquery.iframe-transport.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/MusicStores/Album.js">
+      <publishTime>01/06/2020 15:28:37</publishTime>
+    </File>
+    <File Include="Scripts/MusicStores/anime.min.js">
+      <publishTime>01/02/2020 10:53:14</publishTime>
+    </File>
+    <File Include="Scripts/MusicStores/main.js">
+      <publishTime>01/02/2020 11:18:10</publishTime>
+    </File>
+    <File Include="Scripts/MusicStores/MusicHome.js">
+      <publishTime>01/06/2020 17:52:19</publishTime>
+    </File>
+    <File Include="Scripts/MusicStores/ShoppingCart.js">
+      <publishTime>01/02/2020 09:20:02</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>12/26/2019 08:24:05</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>01/11/2020 15:42:39</publishTime>
+    </File>
+    <File Include="Views/Account/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminRole/Create.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminRole/Edit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminRole/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminUser/Create.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminUser/Edit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AdminUser/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Album/CreatOrEdit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Album/Index.cshtml">
+      <publishTime>01/07/2020 08:59:56</publishTime>
+    </File>
+    <File Include="Views/AlbumType/CreatOrEdit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/AlbumType/Index.cshtml">
+      <publishTime>01/07/2020 08:59:56</publishTime>
+    </File>
+    <File Include="Views/Artist/CreatOrEdit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Artist/Index.cshtml">
+      <publishTime>01/07/2020 08:59:56</publishTime>
+    </File>
+    <File Include="Views/Default1/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampelAlbum/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampleGenre/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampleJavaScriptResultApplication/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampleTransferParameter/ExampleStudent/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampleTransferParameter/ExampleStudent/jQueryValidation.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/ExampleViewToControllerValue/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Genre/CreatOrEdit.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Genre/Index.cshtml">
+      <publishTime>01/07/2020 09:14:03</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>01/09/2020 08:08:49</publishTime>
+    </File>
+    <File Include="Views/Home/_Promotions.cshtml">
+      <publishTime>01/07/2020 10:25:34</publishTime>
+    </File>
+    <File Include="Views/Manage/AddPhoneNumber.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Manage/ChangePassword.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Manage/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Manage/ManageLogins.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Manage/SetPassword.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/MusicIndex/Detail.cshtml">
+      <publishTime>01/11/2020 15:43:11</publishTime>
+    </File>
+    <File Include="Views/MusicIndex/Index.cshtml">
+      <publishTime>01/09/2020 08:08:49</publishTime>
+    </File>
+    <File Include="Views/Order/details.cshtml">
+      <publishTime>01/09/2020 11:52:11</publishTime>
+    </File>
+    <File Include="Views/Order/Index.cshtml">
+      <publishTime>01/08/2020 15:19:54</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>01/11/2020 16:05:13</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>01/09/2020 08:43:34</publishTime>
+    </File>
+    <File Include="Views/Shared/_WeatherAPI.cshtml">
+      <publishTime>01/04/2020 16:51:12</publishTime>
+    </File>
+    <File Include="Views/ShoppingCart/Index.cshtml">
+      <publishTime>01/11/2020 16:36:08</publishTime>
+    </File>
+    <File Include="Views/Store/Index.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>12/26/2019 08:24:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/11/2020 17:19:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

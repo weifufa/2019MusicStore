@@ -1,0 +1,99 @@
+﻿@using MVCMusicStore2019.ViewModels.MusicStores
+@model ShoppingCartViewModel
+@using MVCMusicStore2019.Models.MusicStores
+@*@model ShoppingCartItem*@
+<div class="panel-heading">
+    @ViewBag.Title
+    @*<link rel="stylesheet" href="~/Content/ShoppingCart.css" />*@
+</div>
+
+<table class="table table-striped">
+    <tr>
+        @*<th><label><input class="check-all check" type="checkbox" />&nbsp;全选</label></th>*@
+        <th>封面链接</th>
+        <th>专辑</th>
+        <th>价格</th>
+        <th>数量</th>
+        <th>金额</th>
+        <th>删除</th>
+    </tr>
+    @Html.HiddenFor(x => Model.Id)
+    @if (this.Model.Items.Count() == 0||this.Model.Items==null)
+    {
+        <tr><td colspan="6" class="text-center">当前购物车暂无商品</td></tr>
+    }
+    else
+    {
+        foreach (ShoppingCartItem item in this.Model.Items)
+        {@Html.HiddenFor(modeItem=>item.Id)
+            <tr>
+                <td>
+                    <img src="~/Models/Pics/@Html.Action("GetAlbumUrl", new { id=@item.AlbumId})" style="width:65px" />
+                    @*@Html.Action("GetAlbumUrl", new { id = @item.Id })*@
+                </td>
+                <td>
+                    @Html.RouteLink(@item.AlbumName,"Detail", new { id = @item.AlbumId})
+                    @*@Html.ActionLink(@item.AlbumName,"GetDetailUrl", new { id = @item.Id, price = item.Price })*@
+                </td>
+             
+                <td>
+                    ￥@item.Price.ToString("#0.00")
+                </td>
+                <td>@item.Quantity</td>
+
+
+                <td>
+                    ￥@item.SubTotalPrice.ToString("#0.00")
+                </td>
+       
+                @*<td>
+                    @using (
+                    
+                    .BeginForm("Delete", "ShoppingCart", new { id = item.Id }))
+                    {
+                        <button style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"></button>
+                    }
+                </td>*@
+                <td>
+            @using (Html.BeginForm("Remove", "ShoppingCart", new { id = item.Id }))
+            {
+                <input type="submit" value="" class="remove" alt="移除购物车" style="background-image:url(/images/remove.jpg);height:25px;width:25px;border:0px"/>
+            }
+        </td>
+            </tr>
+        }
+        <tr>
+            <td colspan="4"></td>
+            <b>总数量：@this.Model.TotalQuantity</b>&nbsp;&nbsp;&nbsp;&nbsp;
+            <td><b>总价：￥@this.Model.TotalPrice.ToString("#0.00")</b></td>
+            <td></td>
+        </tr>
+
+
+    }
+</table>
+<div class="text-left">
+    @Html.ValidationSummary()<div style="clear:both"></div>
+</div>
+<div class="text-right">
+    @if (this.Model.Items.Count() == 0 || this.Model.Items == null)
+    {
+        <input type="hidden" class="btn-danger cardEndLine" id="EmpryCart" value="清空购物车" />   
+    }
+    else
+    {
+        <input class="btn-danger cardEndLine" id="EmpryCart" type="submit" value="清空购物车" />
+    }
+
+    <div class="cardEndLine">
+        <img src="@Url.Content("/images/continueshopping.jpg")" alt="" />
+        @Html.RouteLink("继续购物", "MusicIndex")
+    </div>
+    @if (Model.TotalQuantity > 0)
+    {
+        <img src="@Url.Content("/images/payment.jpg")" alt="" />
+        @Html.RouteLink("结账支付", "CheckOut")
+    }
+</div>
+@Scripts.Render("~/bundles/jquery")
+<script src="~/Scripts/MusicStores/ShoppingCart.js"></script>

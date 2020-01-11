@@ -1,0 +1,28 @@
+﻿@model  MVCMusicStore2019.ViewModels.MusicStores.AlbumDisplayViewModel
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            今日特惠促销商品：@Model.Name
+        </h3>
+    </div>
+    <div class="panel-body">
+        <p><img src="/Models/Pics/@Url.Content(Model.UrlString)" class="poster" alt="@Model.Name" />
+        </p>
+        <div id="albumDetail">
+            <p>@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</p>
+            <p>@Html.LabelFor(x => x.GenreName):@Model.GenreName</p>
+            <p>@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</p>
+            <p>@Html.LabelFor(x => x.IssueUser):@Model.IssueUser </p>
+            <p>@Html.LabelFor(x => x.IssueTime):@Model.IssueTime</p>
+            <p>@Html.LabelFor(x => x.LanguageClassification):@Model.LanguageClassification</p>
+            <p>@Html.LabelFor(x => x.Price):@Model.Price</p>
+
+            @Html.ActionLink("直接购买","Buy","Order",
+           new { id=Model.Id,price=Model.Price},
+             new
+             {
+                 @class = "btn btn-danger"
+             })
+        </div>
+    </div>
+</div>
