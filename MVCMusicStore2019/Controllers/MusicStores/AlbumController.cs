@@ -209,7 +209,7 @@ namespace MVCMusicStore2019.Controllers.MusicStores
 
             int starIndex = imgFile.FileName.IndexOf(".");
             var suffix = imgFile.FileName.Substring(starIndex, imgFile.FileName.Length - starIndex);
-            var fileName = Path.Combine(Request.MapPath("~/Models/Pics"), Path.GetFileName(result + suffix));
+            var fileName = Path.Combine(Request.MapPath("~/Pics"), Path.GetFileName(result + suffix));
             try
             {
                 imgFile.SaveAs(fileName);

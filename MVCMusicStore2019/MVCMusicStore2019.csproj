@@ -376,6 +376,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\MusicStores\Album.js" />
     <Content Include="Scripts\MusicStores\anime.min.js" />
+    <Content Include="Scripts\MusicStores\canvas-nest.js" />
     <Content Include="Scripts\MusicStores\main.js" />
     <Content Include="Scripts\MusicStores\MusicHome.js" />
     <Content Include="Scripts\MusicStores\ShoppingCart.js" />

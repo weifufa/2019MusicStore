@@ -148,7 +148,10 @@ body {
 .column--right .column__text {
 	color: #b0adad;
 }
-
+stack__figure
+{
+      border-radius: 35% 0%;
+}
 
 
 
