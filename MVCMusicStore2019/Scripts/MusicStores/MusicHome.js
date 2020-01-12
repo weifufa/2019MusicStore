@@ -20,6 +20,7 @@ $(document).ready(
     function Preloading() {
         getsales();
         Getsales();
+        getCTR()
         getPicUrlString();//加载动态轮播图方法
         getAlbums();
         $(':input').bind("keyup", function (event) {
@@ -189,7 +190,7 @@ function getsales() {
                       divContent += "</li>";
                   }
               });
-              //divContent = "<ol >" + divContent + "</ol>";
+              divContent = "<ol >" + divContent + "</ol>";
               $("#xiaoliang").html(divContent);
           }
       }
@@ -243,6 +244,44 @@ function Getsales() {
               );
               divContent = "<div class='row'><ul class='honeycomb' lang='es'>" + divContent + "</ul></div>";
               $("#newAlbum").html(divContent);
+          }
+      }
+    )
+}
+
+//热度排行榜
+function getCTR() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/CTRRankList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+                  }
+              });
+              divContent = "<ol >" + divContent + "</ol>";
+              $("#redu").html(divContent);
           }
       }
     )

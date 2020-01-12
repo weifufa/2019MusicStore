@@ -28,7 +28,6 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">系统管理 <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li>
-
                                 @Html.ActionLink("专辑管理", "Index", "Album")
                             </li>
                     <li> @Html.ActionLink("音乐类型管理", "Index", "AlbumType")</li>
@@ -43,8 +42,12 @@
                 </ul>
                     </li>
                 </ul>
+        
                 @Html.Partial("_LoginPartial")
+              
             </div>
+        
+           
         </div>
     </div>
     @*返回顶部*@
@@ -112,5 +115,7 @@
             })
         });
     </script>
+    <script src="~/Scripts/MusicStores/canvas-nest.js"></script>
+
 </body>
 </html>

@@ -445,7 +445,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Content\images\" />
     <Folder Include="images\" />
-    <Folder Include="Models\Pics\" />
     <Folder Include="Views\Admin\" />
     <Folder Include="Views\Default\" />
     <Folder Include="Views\ExampbleArtist\" />

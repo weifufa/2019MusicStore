@@ -18,7 +18,7 @@
 //            success: function (evt) {
 //                alert(456);
 //                imgString += "<a herf='" + hrefString + evt.id + "'>";
-//                imgString += "<img src='/Models/Pics/" + evt.UrlString + "' class='poster' alt=" + evt.Name + "/>";
+//                imgString += "<img src='/Pics/" + evt.UrlString + "' class='poster' alt=" + evt.Name + "/>";
 //                imgString += "</a>";
 //                alert(imgString);
 //                $('#urlimg').html(imgString);

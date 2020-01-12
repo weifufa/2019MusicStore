@@ -24,21 +24,10 @@
                 <div class="stack__deco"></div>
                 <div class="stack__deco"></div>
                 <div class="stack__figure">
-                    <img class="stack__img" src="/Models/Pics/@Url.Content(Model.UrlString)" alt="@Model.Name" style="width:600px" />
+                    <img class="stack__img" src="/Pics/@Url.Content(Model.UrlString)" alt="@Model.Name" style="width:600px" />
                 </div>
             </div>
-            @*<div class="grid__item-caption">
-                    <div class="grid__item-title">@Html.LabelFor(x => x.Name):@Model.Name</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.GenreName):@Model.GenreName</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.AlbumTypeName):@Model.AlbumTypeName</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.Issuer):@Model.Issuer</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.IssueDate):@Model.IssueDate</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.LanguageClassifiication):@Model.LanguageClassifiication</div>
-                    <div class="grid__item-title">@Html.LabelFor(x => x.Price):@Model.Price</div>
-                </div>*@
-
-            <div class="grid__item-caption">
+  <div class="grid__item-caption">
                 <h3 class="grid__item-title">@Html.LabelFor(x => x.Name):@Model.Name</h3>
                 <div class="column column--left">
                     <span class="column__text">@Html.LabelFor(x => x.ArtistName):@Model.ArtistName</span>
@@ -50,11 +39,14 @@
                     <span class="column__text">@Html.LabelFor(x => x.IssueTime):@Model.IssueTime</span>
                     <span class="column__text">@Html.LabelFor(x => x.LanguageClassification):@Model.LanguageClassification</span>
                     <span class="column__text">@Html.LabelFor(x => x.Price):@Model.Price</span>
+
                 </div>
             </div>
 
         </a>
-    </div>
+        <span>@Html.ActionLink("直接购买>>", "Buy", "Order", new { id = Model.Id, price = Model.Price }, new { @class = "btn btn-danger" })</span>
+        <span> @Html.ActionLink("返回主页>>", "Index", "Home", null, new { @class = "btn btn-primary" })</span>
+</div>
 </section>
 <link href="~/Content/demo.css" rel="stylesheet" />
 <script src="~/Scripts/MusicStores/anime.min.js"></script>

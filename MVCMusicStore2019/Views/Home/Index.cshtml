@@ -28,7 +28,6 @@
         </div>*@
 
     @*商品特惠*@
-
 <div class="container" style="left:300px;margin: 8px 0;">
     <div class="container">
         <div class="row">
@@ -90,19 +89,7 @@
             </a>
         </div>
     </div>
-<div>
-    <div class="row"  style="text-align:center">
-        <div class="col-xs-4 col-sm-4 col-md-12">
-            <h3>销量专辑排行榜</h3>
-            <div id="xiaoliang">
-            </div>
-        </div>
-        <div class="col-xs-4 col-sm-4"></div>
-        @*<div class="col-xs-4 col-sm-4">.col-xs-6 .col-sm-4</div>*@
-        
-    </div>
-    
-</div>
+
 
 <div id="PROMOTIONS">
     @Ajax.ActionLink("戳此查看今日特惠商品",
@@ -117,11 +104,29 @@
     new { @class = "btn btn-danger btn-defalut btn-block" }
     )
 </div>
+    <div class="row">
+    <div class="col-xs-4 col-sm-4 col-md-4 ">
+        <h3>销量专辑排行榜</h3>
+        <div id="xiaoliang"> </div>
+    </div>
+    <div class="col-xs-4 col-sm-4 col-md-4 ">
+        <h3>热度专辑排行榜</h3>
+        <div id="redu"></div>
+    </div>
+</div>
+@*<div class="row">
+    <div class="col-xs-4 col-sm-4 col-md-12">
+        <h3>热度专辑排行榜</h3>
+        <div id="redu">
+        </div>
+    </div>
+    <div class="col-xs-4 col-sm-4"></div>
+</div>*@
     @* ================ 商品列表缩略图实现 ================== *@
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12" style="text-align:center">
             <div>
-                <h2>最新专辑</h2>
+                <h2>最新专辑排行榜</h2>
                 <a href="/MusicIndex/Index"><h4 class="text-right">更多▶</h4></a>
                 
             </div>

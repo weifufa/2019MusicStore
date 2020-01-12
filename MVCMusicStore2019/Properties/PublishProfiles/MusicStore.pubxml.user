@@ -6,7 +6,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\MusicStore</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\MusicShopping</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Antlr3.Runtime.dll">
@@ -64,7 +64,7 @@
       <publishTime>12/26/2019 08:24:08</publishTime>
     </File>
     <File Include="bin/MVCMusicStore2019.dll">
-      <publishTime>01/11/2020 17:19:51</publishTime>
+      <publishTime>01/12/2020 16:55:00</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>12/26/2019 08:24:08</publishTime>
@@ -157,7 +157,7 @@
       <publishTime>12/26/2019 08:24:08</publishTime>
     </File>
     <File Include="bin/WxPayAPI.dll">
-      <publishTime>01/11/2020 17:19:47</publishTime>
+      <publishTime>01/12/2020 15:50:37</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.AspNet.Identity.Core.resources.dll">
       <publishTime>04/03/2015 17:09:32</publishTime>
@@ -211,13 +211,13 @@
       <publishTime>11/29/2018 13:29:50</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>01/09/2020 08:08:49</publishTime>
+      <publishTime>01/12/2020 11:15:03</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
       <publishTime>12/26/2019 08:24:05</publishTime>
     </File>
     <File Include="Content/demo.css">
-      <publishTime>01/02/2020 11:33:10</publishTime>
+      <publishTime>01/12/2020 08:08:23</publishTime>
     </File>
     <File Include="Content/icons/jinghui.png">
       <publishTime>12/26/2019 08:24:05</publishTime>
@@ -243,11 +243,17 @@
     <File Include="Content/jQuery.FileUpload/img/progressbar.gif">
       <publishTime>12/26/2019 08:24:05</publishTime>
     </File>
+    <File Include="Content/normalize.min.css">
+      <publishTime>12/29/2018 15:50:28</publishTime>
+    </File>
     <File Include="Content/ShoppingCart.css">
       <publishTime>12/26/2019 08:24:05</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>01/09/2020 08:08:49</publishTime>
+      <publishTime>01/12/2020 16:47:37</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>01/12/2020 08:39:07</publishTime>
     </File>
     <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
       <publishTime>12/26/2019 08:24:05</publishTime>
@@ -528,14 +534,17 @@
     <File Include="Scripts/MusicStores/anime.min.js">
       <publishTime>01/02/2020 10:53:14</publishTime>
     </File>
+    <File Include="Scripts/MusicStores/canvas-nest.js">
+      <publishTime>01/09/2020 08:08:49</publishTime>
+    </File>
     <File Include="Scripts/MusicStores/main.js">
       <publishTime>01/02/2020 11:18:10</publishTime>
     </File>
     <File Include="Scripts/MusicStores/MusicHome.js">
-      <publishTime>01/06/2020 17:52:19</publishTime>
+      <publishTime>01/12/2020 16:32:58</publishTime>
     </File>
     <File Include="Scripts/MusicStores/ShoppingCart.js">
-      <publishTime>01/02/2020 09:20:02</publishTime>
+      <publishTime>01/11/2020 17:56:22</publishTime>
     </File>
     <File Include="Scripts/respond.js">
       <publishTime>12/26/2019 08:24:05</publishTime>
@@ -544,7 +553,7 @@
       <publishTime>12/26/2019 08:24:05</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>01/11/2020 15:42:39</publishTime>
+      <publishTime>01/12/2020 08:08:23</publishTime>
     </File>
     <File Include="Views/Account/Index.cshtml">
       <publishTime>12/26/2019 08:24:06</publishTime>
@@ -556,7 +565,7 @@
       <publishTime>12/26/2019 08:24:06</publishTime>
     </File>
     <File Include="Views/AdminRole/Edit.cshtml">
-      <publishTime>12/26/2019 08:24:06</publishTime>
+      <publishTime>01/12/2020 11:27:59</publishTime>
     </File>
     <File Include="Views/AdminRole/Index.cshtml">
       <publishTime>12/26/2019 08:24:06</publishTime>
@@ -622,10 +631,10 @@
       <publishTime>12/26/2019 08:24:06</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>01/09/2020 08:08:49</publishTime>
+      <publishTime>01/12/2020 16:52:58</publishTime>
     </File>
     <File Include="Views/Home/_Promotions.cshtml">
-      <publishTime>01/07/2020 10:25:34</publishTime>
+      <publishTime>01/11/2020 17:56:22</publishTime>
     </File>
     <File Include="Views/Manage/AddPhoneNumber.cshtml">
       <publishTime>12/26/2019 08:24:06</publishTime>
@@ -646,13 +655,13 @@
       <publishTime>12/26/2019 08:24:06</publishTime>
     </File>
     <File Include="Views/MusicIndex/Detail.cshtml">
-      <publishTime>01/11/2020 15:43:11</publishTime>
+      <publishTime>01/12/2020 09:50:01</publishTime>
     </File>
     <File Include="Views/MusicIndex/Index.cshtml">
-      <publishTime>01/09/2020 08:08:49</publishTime>
+      <publishTime>01/11/2020 17:56:22</publishTime>
     </File>
     <File Include="Views/Order/details.cshtml">
-      <publishTime>01/09/2020 11:52:11</publishTime>
+      <publishTime>01/12/2020 09:45:38</publishTime>
     </File>
     <File Include="Views/Order/Index.cshtml">
       <publishTime>01/08/2020 15:19:54</publishTime>
@@ -664,7 +673,7 @@
       <publishTime>12/26/2019 08:24:06</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>01/11/2020 16:05:13</publishTime>
+      <publishTime>01/12/2020 16:47:33</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>01/09/2020 08:43:34</publishTime>
@@ -673,7 +682,7 @@
       <publishTime>01/04/2020 16:51:12</publishTime>
     </File>
     <File Include="Views/ShoppingCart/Index.cshtml">
-      <publishTime>01/11/2020 16:36:08</publishTime>
+      <publishTime>01/11/2020 17:56:22</publishTime>
     </File>
     <File Include="Views/Store/Index.cshtml">
       <publishTime>12/26/2019 08:24:06</publishTime>
@@ -685,7 +694,7 @@
       <publishTime>12/26/2019 08:24:06</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/11/2020 17:19:52</publishTime>
+      <publishTime>01/12/2020 15:27:17</publishTime>
     </File>
   </ItemGroup>
 </Project>

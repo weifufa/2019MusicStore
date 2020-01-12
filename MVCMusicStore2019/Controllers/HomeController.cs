@@ -1,4 +1,5 @@
-﻿using MVCMusicStore2019.Models.MusicStores;
+﻿using MVCMusicStore2019.Models;
+using MVCMusicStore2019.Models.MusicStores;
 using MVCMusicStore2019.Repository;
 using MVCMusicStore2019.ViewModels.MusicStores;
 using System;
@@ -11,12 +12,15 @@ namespace MVCMusicStore2019.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IEntityRepository<PopularHotList> _phService;
         private readonly IEntityRepository<Album> _Service;
         private readonly IOrderService _orderService;
-        public HomeController(EntityRepository<Album> Service, OrderService orderService)
+        public HomeController(EntityRepository<Album> Service, OrderService orderService,
+            EntityRepository<PopularHotList> phService)
         {
             this._Service = Service;
             this._orderService = orderService;
+            this._phService = phService;
         }
 
         public JsonResult GetAlbumList()
@@ -70,7 +74,24 @@ namespace MVCMusicStore2019.Controllers
         }
 
 
-
+        //热度排行榜
+        public JsonResult CTRRankList()
+        {
+            var CTRList = _phService.GetAll().OrderByDescending(x => x.CTR).Take(6);
+            List<AlbumDisplayViewModel> vmList = new List<AlbumDisplayViewModel>();
+            foreach(var CTRitem in CTRList)
+            {
+                var album = _Service.GetAll().SingleOrDefault(x => x.Id == CTRitem.AlbumId);
+                AlbumDisplayViewModel bo = new AlbumDisplayViewModel()
+                {
+                    Id = album.Id,
+                    Name = album.Name,
+                    UrlString = album.UrlString
+                };
+                vmList.Add(bo);
+            }
+            return Json(vmList);
+        }
 
 
         /// <summary>

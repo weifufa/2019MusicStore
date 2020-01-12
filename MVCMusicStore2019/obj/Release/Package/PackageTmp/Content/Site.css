@@ -43,15 +43,14 @@ textarea {
 
 border: none;
     /* 背景色渐变实现 */
-     background: rgb(0, 255, 34);
-    /*background: linear-gradient(to right, #ff9000 0, #ff5000 100%);*/
+     background: skyblue;
     width: 100%;
     height: 100%;
     cursor: pointer;
     /* 设置搜索框圆弧半径 */
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
-    color: #fff;
+    /*color: #fff;*/
     font-size: 16px;
     font-weight: 700;}
 
@@ -59,5 +58,9 @@ border: none;
 {
         border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    border:2px solid rgb(0, 255, 34);
+    border:2px solid skyblue;
+}
+#carousel-list
+{
+ margin-left:190px;
 }

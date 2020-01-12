@@ -18,6 +18,9 @@
 //    });
 $(document).ready(
     function Preloading() {
+        getsales();
+        Getsales();
+        getCTR()
         getPicUrlString();//加载动态轮播图方法
         getAlbums();
         $(':input').bind("keyup", function (event) {
@@ -61,12 +64,12 @@ function getPicUrlString() {
                     //alert(data[item]);
                     if (item == 0) {
                         divContent += "<div class='item active'>";
-                        divContent += " <img src='/Models/Pics/" + data[item] + "'/>"
+                        divContent += " <img src='/Pics/" + data[item] + "'/>"
                         divContent += "</div>";
                     }
                     else {
                         divContent += "<div class='item'>";
-                        divContent += " <img src='/Models/Pics/" + data[item] + "'/>"
+                        divContent += " <img src='/Pics/" + data[item] + "'/>"
                         divContent += "</div>";
                     }
                 });
@@ -108,7 +111,7 @@ function getAlbums() {
                         divContent1+="<div class='col-md-2'>";
                         divContent1 += "<div class='thumbnail'>";
                         divContent1 += "<a href='" + hrefString + data[item].Id + "'>"
-                        divContent1+="<img src='/Models/Pics/"+data[item].UrlString+"'class='img-responsive' />";
+                        divContent1+="<img src='/Pics/"+data[item].UrlString+"'class='img-responsive' />";
                         divContent1 += "</a>";
                         divContent1 += "</div></div>";
                         count+=1;
@@ -117,7 +120,7 @@ function getAlbums() {
                         divContent2 += "<div class='thumbnail'>";
                        divContent2 += "<a href='" + hrefString + data[item].Id + "'>"
            
-                        divContent2 += "<img src='/Models/Pics/" + data[item].UrlString + "'class='img-responsive' />";
+                        divContent2 += "<img src='/Pics/" + data[item].UrlString + "'class='img-responsive' />";
                         divContent2 += "</a>";
                         divContent2+="</div></div>";
                     }
@@ -153,4 +156,133 @@ function getAlbums() {
 
 function AddCTR() {
     window.alert("点赞成功！");
+}
+
+
+//销量专辑排行榜
+function getsales() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/SalesRankList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+                  }
+              });
+              divContent = "<ol >" + divContent + "</ol>";
+              $("#xiaoliang").html(divContent);
+          }
+      }
+    )
+}
+
+
+//最新专辑
+function Getsales() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/GetAlbumList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li class='honeycomb-cell'>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>";
+                      divContent += "<img src='/Pics/" + data[item].UrlString + "'class='honeycomb-cell__image' />";
+                      
+                      divContent += "<div class='honeycomb-cell__title'>最新专辑";
+                     
+                      divContent += "</div>";
+                      divContent += "</a>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li class='honeycomb-cell'>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>";
+                      divContent += "<img src='/Pics/" + data[item].UrlString + "'class='honeycomb-cell__image' />";
+                    
+                      divContent += "<div class='honeycomb-cell__title'>最新专辑";
+                
+                      divContent += "</div>";
+                      divContent += "</a>";
+                      divContent += "</li>";
+                  }
+              }
+              );
+              divContent = "<div class='row'><ul class='honeycomb' lang='es'>" + divContent + "</ul></div>";
+              $("#newAlbum").html(divContent);
+          }
+      }
+    )
+}
+
+//热度排行榜
+function getCTR() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/CTRRankList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+                  }
+              });
+              divContent = "<ol >" + divContent + "</ol>";
+              $("#redu").html(divContent);
+          }
+      }
+    )
 }

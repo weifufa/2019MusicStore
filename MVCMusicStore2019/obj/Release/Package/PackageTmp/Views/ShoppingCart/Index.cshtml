@@ -28,7 +28,7 @@
         {@Html.HiddenFor(modeItem=>item.Id)
             <tr>
                 <td>
-                    <img src="~/Models/Pics/@Html.Action("GetAlbumUrl", new { id=@item.AlbumId})" style="width:65px" />
+                    <img src="~/Pics/@Html.Action("GetAlbumUrl", new { id=@item.AlbumId})" style="width:65px" />
                     @*@Html.Action("GetAlbumUrl", new { id = @item.Id })*@
                 </td>
                 <td>
