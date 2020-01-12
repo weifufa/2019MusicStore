@@ -61,7 +61,12 @@ namespace MVCMusicStore2019.Repository
                 .ToList();
             return order;
         }
+        public List<OrderItem> GetOrderItems()
+        {
+            var orderItems = db.OrderItems.ToList();
+            return orderItems;
+        }
 
-   
+
     }
 }

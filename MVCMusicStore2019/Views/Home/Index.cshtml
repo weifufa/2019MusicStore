@@ -3,7 +3,7 @@
 }
 
 @*===========巨幕效果：将类名设置称为jumbotron============*@
-    <br />
+    @*<br />
     <div class="container">
         <div class="row">
             <div class="col-sm-6 pull-right">
@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>*@
     @*<div class="row">
             <div class="col-lg-12">
                 <div class="input-group">
@@ -29,20 +29,20 @@
 
     @*商品特惠*@
 
-    <div id="PROMOTIONS">
-        @Ajax.ActionLink("戳此查看今日特惠商品",
-    "Promotions",
-    null,
-    new AjaxOptions
-    {
-        UpdateTargetId = "PROMOTIONS",
-        InsertionMode = InsertionMode.Replace,
-        HttpMethod = "GET"
-    },
-    new { @class = "btn btn-defalut btn-block" }
-    )
+<div class="container" style="left:300px;margin: 8px 0;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 pull-right">
+                <div class="input-group pull-right">
+                    <input id="searchString" type="text" class="form-control pull-right" placeholder="请在此输入搜索关键词....">
+                    <span class="input-group-btn">
+                        <button id="SearchBTN" class="btn btn-default pull-right" type="button">搜索</button>
+                    </span>
+                </div>
+            </div>
+        </div>
     </div>
-
+</div>
     <!-- 轮播图 -->
     @*<h1 class="text-center">轮播图读库实现</h1>*@
     <div id="carousel-index2" class="carousel slide" data-ride="carousel">
@@ -90,15 +90,44 @@
             </a>
         </div>
     </div>
-    @* ================ 商品列表缩略图实现 ================== *@
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-            <div>
-                <h2>最新专辑</h2>
-                <a href="/MusicIndex/Index"><h4 class="text-right">更多</h4></a>
+<div>
+    <div class="row"  style="text-align:center">
+        <div class="col-xs-4 col-sm-4 col-md-12">
+            <h3>销量专辑排行榜</h3>
+            <div id="xiaoliang">
             </div>
         </div>
-        @*pc端4张缩略图，平板/手机6张*@
+        <div class="col-xs-4 col-sm-4"></div>
+        @*<div class="col-xs-4 col-sm-4">.col-xs-6 .col-sm-4</div>*@
+        
+    </div>
+    
+</div>
+
+<div id="PROMOTIONS">
+    @Ajax.ActionLink("戳此查看今日特惠商品",
+    "Promotions",
+    null,
+    new AjaxOptions
+    {
+        UpdateTargetId = "PROMOTIONS",
+        InsertionMode = InsertionMode.Replace,
+        HttpMethod = "GET"
+    },
+    new { @class = "btn btn-danger btn-defalut btn-block" }
+    )
+</div>
+    @* ================ 商品列表缩略图实现 ================== *@
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12" style="text-align:center">
+            <div>
+                <h2>最新专辑</h2>
+                <a href="/MusicIndex/Index"><h4 class="text-right">更多▶</h4></a>
+                
+            </div>
+            
+        </div>
+        <div id="newAlbum"></div>       @* pc端4张缩略图，平板/手机6张
         <div class="col-md-4 col-sm-6 col-xs-6">
             <div class="thumbnail">
                 <img src="~/Pics/Album_2019-12-18-11-45-01-0219.jpg" alt="" class="img-responsive" />
@@ -129,8 +158,41 @@
                 <img src="~/Pics/Album_2019-12-18-11-59-40-3788.jpg" alt="" class="img-responsive" />
             </div>
         </div>
-    </div>
-
+    </div>*@
+        @*<div>
+            <ul class="honeycomb" lang="es">
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-18-11-45-01-0219.jpg">
+                    <div class="honeycomb-cell__title">说好不哭</div>
+                    
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-19-12-12-52-4178.jpg">
+                    <div class="honeycomb-cell__title">相信你的人</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-18-11-47-56-0987.jpg">
+                    <div class="honeycomb-cell__title">奇妙相遇</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-18-11-55-05-3382.jpg">
+                    <div class="honeycomb-cell__title">初学者</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-18-11-57-24-1740.jpg">
+                    <div class="honeycomb-cell__title">雨幕</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-18-11-59-40-3788.jpg">
+                    <div class="honeycomb-cell__title">龙的传人</div>
+                </li>
+                <li class="honeycomb-cell">
+                    <img class="honeycomb-cell__image" src="~/Pics/Album_2019-12-19-12-03-01-3194.jpg" >
+                    <div class="honeycomb-cell__title">烽火成书</div>
+                </li>
+                <li class="honeycomb-cell honeycomb__placeholder"></li>
+            </ul>
+        </div>*@
     <div class="jumbotron">
         <h1>MVC Music Store项目简介</h1>
         <p class="lead">MVC Music Store是一个音乐专辑购物网站项目。</p>
@@ -166,3 +228,5 @@
 
     @Scripts.Render("~/bundles/jquery")
     <script src="~/Scripts/MusicStores/MusicHome.js"></script>
+        <link href="~/Content/style.css" rel="stylesheet" />
+        <link href="~/Content/normalize.min.css" rel="stylesheet" />

@@ -12,10 +12,67 @@ namespace MVCMusicStore2019.Controllers
     public class HomeController : Controller
     {
         private readonly IEntityRepository<Album> _Service;
-        public HomeController(EntityRepository<Album> Service)
+        private readonly IOrderService _orderService;
+        public HomeController(EntityRepository<Album> Service, OrderService orderService)
         {
             this._Service = Service;
+            this._orderService = orderService;
         }
+
+        public JsonResult GetAlbumList()
+        {
+            List<Album> AlbumList = _Service.GetAll().ToList();
+            AlbumList = AlbumList.OrderByDescending(x => x.IssueTime).Take(7).ToList();
+
+
+            List<AlbumViewModel> vmList = new List<AlbumViewModel>();
+            foreach (var item in AlbumList)
+            {
+
+                AlbumViewModel bo = new AlbumViewModel()
+                {
+                    Id = item.Id,
+                    Name = item.Name,
+                    UrlString = item.UrlString
+
+                };
+                vmList.Add(bo);
+            }
+            return Json(vmList);
+
+        }
+        public JsonResult SalesRankList()
+        {
+            var orderList = _orderService.GetOrderItems().GroupBy(x => new
+            {
+                x.AlbumId
+            }).Select(y => new
+            {
+                Sum = y.Sum(z => z.Quantity),
+                AlbumId = y.Key.AlbumId
+
+            });
+
+            orderList = orderList.OrderByDescending(x => x.Sum).Take(6);
+            List<AlbumViewModel> vmList = new List<AlbumViewModel>();
+            foreach (var orderItem in orderList)
+            {
+                var album = _Service.GetAll().SingleOrDefault(x => x.Id == orderItem.AlbumId);
+                AlbumViewModel bo = new AlbumViewModel()
+                {
+                    Id = album.Id,
+                    Name = album.Name
+                };
+                vmList.Add(bo);
+            }
+            return Json(vmList);
+
+        }
+
+
+
+
+
         /// <summary>
         /// 查询用户权限
         /// </summary>

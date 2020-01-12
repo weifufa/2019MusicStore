@@ -23,6 +23,7 @@ namespace MVCMusicStore2019.Infrastructure
         public DbSet<AlbumType> AlbumTypes { get; set; }
         public DbSet<Album> Albums { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
         public DbSet<PopularHotList> PopularHotLists { get; set; }
         public DbSet<ShoppingCart> ShoppingCarts { get; set; }
         public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }

@@ -45,7 +45,8 @@
 
         </a>
         <span>@Html.ActionLink("直接购买>>", "Buy", "Order", new { id = Model.Id, price = Model.Price }, new { @class = "btn btn-danger" })</span>
-    </div>
+        <span> @Html.ActionLink("返回主页>>", "Index", "Home", null, new { @class = "btn btn-primary" })</span>
+</div>
 </section>
 <link href="~/Content/demo.css" rel="stylesheet" />
 <script src="~/Scripts/MusicStores/anime.min.js"></script>

@@ -18,6 +18,8 @@
 //    });
 $(document).ready(
     function Preloading() {
+        getsales();
+        Getsales();
         getPicUrlString();//加载动态轮播图方法
         getAlbums();
         $(':input').bind("keyup", function (event) {
@@ -153,4 +155,95 @@ function getAlbums() {
 
 function AddCTR() {
     window.alert("点赞成功！");
+}
+
+
+//销量专辑排行榜
+function getsales() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/SalesRankList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>" + data[item].Name + "<a/>";
+                      divContent += "</li>";
+                  }
+              });
+              //divContent = "<ol >" + divContent + "</ol>";
+              $("#xiaoliang").html(divContent);
+          }
+      }
+    )
+}
+
+
+//最新专辑
+function Getsales() {
+
+    $.ajax
+    (
+      {
+          type: 'POST',
+          async: true,
+          url: "/Home/GetAlbumList",
+          datatype: 'json',
+          success: function (data) {
+              var herfString = '/MusicIndex/Detail/';
+              var divContent = '';
+
+              $.each(
+                  data,
+              function (item) {
+
+                  if (item == 0) {
+
+                      divContent += "<li class='honeycomb-cell'>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>";
+                      divContent += "<img src='/Pics/" + data[item].UrlString + "'class='honeycomb-cell__image' />";
+                      
+                      divContent += "<div class='honeycomb-cell__title'>最新专辑";
+                     
+                      divContent += "</div>";
+                      divContent += "</a>";
+                      divContent += "</li>";
+
+                  }
+                  else {
+                      divContent += "<li class='honeycomb-cell'>";
+                      divContent += "<a href='" + herfString + "" + data[item].Id + "'>";
+                      divContent += "<img src='/Pics/" + data[item].UrlString + "'class='honeycomb-cell__image' />";
+                    
+                      divContent += "<div class='honeycomb-cell__title'>最新专辑";
+                
+                      divContent += "</div>";
+                      divContent += "</a>";
+                      divContent += "</li>";
+                  }
+              }
+              );
+              divContent = "<div class='row'><ul class='honeycomb' lang='es'>" + divContent + "</ul></div>";
+              $("#newAlbum").html(divContent);
+          }
+      }
+    )
 }

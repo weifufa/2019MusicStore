@@ -11,6 +11,7 @@ namespace MVCMusicStore2019.Repository
     {
         List<Order> GetOrderList();
         bool Delete(Guid id);
-      
+        List<OrderItem> GetOrderItems();
+
     }
 }
